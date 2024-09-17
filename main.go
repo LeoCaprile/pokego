@@ -1,10 +1,10 @@
 package main
 
 import (
-	"encoding/json"
 	"fmt"
 	"log"
-	"net/http"
+	"pokego/client"
+	"strings"
 
 	"github.com/charmbracelet/bubbles/table"
 	tea "github.com/charmbracelet/bubbletea"
@@ -12,11 +12,13 @@ import (
 )
 
 type model struct {
-	table     table.Model
-	pokemonId string
+	table           table.Model
+	pokemons        map[string]client.Pokemon
+	selectedPokemon client.Pokemon
 }
 
 func (m model) Init() tea.Cmd {
+
 	return nil
 }
 
@@ -32,19 +34,35 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 		// Up - Down table
 		case "up", "k":
 			m.table.MoveUp(1)
-			m.pokemonId = m.table.SelectedRow()[0]
+			pokemonId := m.table.SelectedRow()[0]
+
+			if pokemon, ok := m.pokemons[pokemonId]; !ok {
+				pokemon := client.GetPokemon(pokemonId)
+				m.pokemons[pokemonId] = pokemon
+				m.selectedPokemon = pokemon
+			} else {
+				m.selectedPokemon = pokemon
+			}
+
 		case "down", "j":
 			m.table.MoveDown(1)
-			m.pokemonId = m.table.SelectedRow()[0]
-		}
+			pokemonId := m.table.SelectedRow()[0]
 
+			if pokemon, ok := m.pokemons[pokemonId]; !ok {
+				pokemon := client.GetPokemon(pokemonId)
+				m.pokemons[pokemonId] = pokemon
+				m.selectedPokemon = pokemon
+			} else {
+				m.selectedPokemon = pokemon
+			}
+		}
 	}
 
 	return m, nil
 }
 
 var containerStyle = lipgloss.NewStyle().Border(lipgloss.NormalBorder())
-var containerImage = containerStyle.Height(15).Width(30)
+var containerBorder = containerStyle.Height(13).Width(30)
 var headerStyle = lipgloss.NewStyle().Padding(0, 1).Foreground(lipgloss.Color("252")).Bold(true)
 
 func createPokedexTable(rows []table.Row) table.Model {
@@ -77,50 +95,30 @@ func createPokedexTable(rows []table.Row) table.Model {
 }
 
 func (m model) View() string {
-	column := lipgloss.JoinVertical(lipgloss.Top, containerImage.Render("POKE IMAGE"), containerImage.Render(m.table.View()))
-	return lipgloss.JoinHorizontal(lipgloss.Top, column, containerStyle.Width(30).Height(32).Render("POKEMON INFO"+m.pokemonId))
-}
-
-type Pokemons struct {
-	Count    int         `json:"count"`
-	Next     string      `json:"next"`
-	Previous interface{} `json:"previous"`
-	Results  []struct {
-		Name string `json:"name"`
-		URL  string `json:"url"`
-	} `json:"results"`
+	column := lipgloss.JoinVertical(lipgloss.Top, containerBorder.Render(m.table.View()), containerBorder.Render(m.selectedPokemon.GetPokemonDescriptionView()))
+	return lipgloss.JoinHorizontal(lipgloss.Top, m.selectedPokemon.GetImageView(80), column)
 }
 
 func getInitialModel() model {
 
-	res, err := http.Get("https://pokeapi.co/api/v2/pokemon?limit=150")
-
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	defer res.Body.Close()
-
-	var results Pokemons
-
-	errCode := json.NewDecoder(res.Body).Decode(&results)
-
-	if errCode != nil {
-		log.Fatal(errCode)
-	}
+	results := client.GetPokemonList()
 
 	tableRow := []table.Row{}
 
 	for i, pok := range results.Results {
-		tableRow = append(tableRow, []string{fmt.Sprint(i + 1), pok.Name})
+		tableRow = append(tableRow, []string{fmt.Sprint(i + 1), strings.Title(pok.Name)})
 	}
 
-	return model{table: createPokedexTable(tableRow)}
+	initialPokemon := client.GetPokemon("1")
+
+	return model{table: createPokedexTable(tableRow), selectedPokemon: initialPokemon, pokemons: map[string]client.Pokemon{
+		"1": initialPokemon,
+	}}
 }
 
 func main() {
 
-	if _, err := tea.NewProgram(getInitialModel()).Run(); err != nil {
+	if _, err := tea.NewProgram(getInitialModel(), tea.WithAltScreen()).Run(); err != nil {
 		log.Fatal(err)
 	}
 
