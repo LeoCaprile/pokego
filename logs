@@ -1,0 +1,2570 @@
+2025/11/06 16:18:02 https://pokeapi.co/api/v2/pokemon/1
+2025/11/06 16:18:03 GETTING NEXT POKEMON
+2025/11/06 16:18:03 https://pokeapi.co/api/v2/pokemon/2
+2025/11/06 16:18:03 https://pokeapi.co/api/v2/pokemon/3
+2025/11/06 16:18:03 https://pokeapi.co/api/v2/pokemon/4
+2025/11/06 16:18:03 https://pokeapi.co/api/v2/pokemon/5
+2025/11/06 16:18:03 https://pokeapi.co/api/v2/pokemon/6
+2025/11/06 16:18:04 26
+2025/11/06 16:18:26 36
+2025/11/06 16:18:27 46
+2025/11/06 16:18:37 56
+2025/11/06 16:18:43 66
+2025/11/06 16:18:43 GETTING NEXT POKEMON
+2025/11/06 16:18:43 https://pokeapi.co/api/v2/pokemon/10
+2025/11/06 16:18:43 https://pokeapi.co/api/v2/pokemon/11
+2025/11/06 16:18:43 https://pokeapi.co/api/v2/pokemon/12
+2025/11/06 16:18:43 https://pokeapi.co/api/v2/pokemon/13
+2025/11/06 16:18:43 https://pokeapi.co/api/v2/pokemon/14
+2025/11/06 16:21:17 https://pokeapi.co/api/v2/pokemon/1
+2025/11/06 16:21:17 GETTING NEXT POKEMON
+2025/11/06 16:21:17 https://pokeapi.co/api/v2/pokemon/2
+2025/11/06 16:21:17 https://pokeapi.co/api/v2/pokemon/3
+2025/11/06 16:21:17 https://pokeapi.co/api/v2/pokemon/4
+2025/11/06 16:21:17 https://pokeapi.co/api/v2/pokemon/5
+2025/11/06 16:21:17 https://pokeapi.co/api/v2/pokemon/6
+2025/11/06 16:21:25 26
+2025/11/06 16:21:25 cursor1
+2025/11/06 16:21:34 36
+2025/11/06 16:21:34 cursor2
+2025/11/06 16:21:43 46
+2025/11/06 16:21:43 cursor3
+2025/11/06 16:21:44 56
+2025/11/06 16:21:44 cursor4
+2025/11/06 16:21:44 66
+2025/11/06 16:21:44 cursor5
+2025/11/06 16:21:44 GETTING NEXT POKEMON
+2025/11/06 16:21:44 https://pokeapi.co/api/v2/pokemon/10
+2025/11/06 16:21:44 https://pokeapi.co/api/v2/pokemon/11
+2025/11/06 16:21:45 https://pokeapi.co/api/v2/pokemon/12
+2025/11/06 16:21:45 https://pokeapi.co/api/v2/pokemon/13
+2025/11/06 16:21:45 https://pokeapi.co/api/v2/pokemon/14
+2025/11/06 16:23:13 https://pokeapi.co/api/v2/pokemon/1
+2025/11/06 16:23:14 GETTING NEXT POKEMON
+2025/11/06 16:23:14 Current ID: 1
+2025/11/06 16:23:14 https://pokeapi.co/api/v2/pokemon/2
+2025/11/06 16:23:14 https://pokeapi.co/api/v2/pokemon/3
+2025/11/06 16:23:14 https://pokeapi.co/api/v2/pokemon/4
+2025/11/06 16:23:14 https://pokeapi.co/api/v2/pokemon/5
+2025/11/06 16:23:14 https://pokeapi.co/api/v2/pokemon/6
+2025/11/06 16:25:49 26
+2025/11/06 16:25:49 cursor1
+2025/11/06 16:25:51 26
+2025/11/06 16:25:51 cursor1
+2025/11/06 16:25:51 36
+2025/11/06 16:25:51 cursor2
+2025/11/06 16:25:52 46
+2025/11/06 16:25:52 cursor3
+2025/11/06 16:25:52 56
+2025/11/06 16:25:52 cursor4
+2025/11/06 16:26:34 56
+2025/11/06 16:26:34 cursor4
+2025/11/06 16:26:35 66
+2025/11/06 16:26:35 cursor5
+2025/11/06 16:26:35 GETTING NEXT POKEMON
+2025/11/06 16:26:35 Current ID: 5
+2025/11/06 16:26:35 https://pokeapi.co/api/v2/pokemon/10
+2025/11/06 16:26:35 https://pokeapi.co/api/v2/pokemon/11
+2025/11/06 16:26:35 https://pokeapi.co/api/v2/pokemon/12
+2025/11/06 16:26:35 https://pokeapi.co/api/v2/pokemon/13
+2025/11/06 16:26:35 https://pokeapi.co/api/v2/pokemon/14
+2025/11/06 16:26:50 https://pokeapi.co/api/v2/pokemon/1
+2025/11/06 16:26:50 GETTING NEXT POKEMON
+2025/11/06 16:26:50 Current ID: 1
+2025/11/06 16:26:50 https://pokeapi.co/api/v2/pokemon/2
+2025/11/06 16:26:50 https://pokeapi.co/api/v2/pokemon/3
+2025/11/06 16:26:50 https://pokeapi.co/api/v2/pokemon/4
+2025/11/06 16:26:50 https://pokeapi.co/api/v2/pokemon/5
+2025/11/06 16:26:50 https://pokeapi.co/api/v2/pokemon/6
+2025/11/06 16:27:00 26
+2025/11/06 16:27:00 cursor1
+2025/11/06 16:27:02 36
+2025/11/06 16:27:02 cursor2
+2025/11/06 16:27:02 46
+2025/11/06 16:27:02 cursor3
+2025/11/06 16:27:02 56
+2025/11/06 16:27:02 cursor4
+2025/11/06 16:27:03 66
+2025/11/06 16:27:03 cursor5
+2025/11/06 16:27:03 GETTING NEXT POKEMON
+2025/11/06 16:27:03 Current ID: 5
+2025/11/06 16:27:03 https://pokeapi.co/api/v2/pokemon/10
+2025/11/06 16:27:03 https://pokeapi.co/api/v2/pokemon/11
+2025/11/06 16:27:03 https://pokeapi.co/api/v2/pokemon/12
+2025/11/06 16:27:03 https://pokeapi.co/api/v2/pokemon/13
+2025/11/06 16:27:03 https://pokeapi.co/api/v2/pokemon/14
+2025/11/06 16:27:44 https://pokeapi.co/api/v2/pokemon/1
+2025/11/06 16:27:44 GETTING NEXT POKEMON
+2025/11/06 16:27:44 Current ID: 1
+2025/11/06 16:27:44 Current foorloop ID: 2
+2025/11/06 16:27:44 https://pokeapi.co/api/v2/pokemon/2
+2025/11/06 16:27:44 Current foorloop ID: 3
+2025/11/06 16:27:44 https://pokeapi.co/api/v2/pokemon/3
+2025/11/06 16:27:44 Current foorloop ID: 4
+2025/11/06 16:27:44 https://pokeapi.co/api/v2/pokemon/4
+2025/11/06 16:27:44 Current foorloop ID: 5
+2025/11/06 16:27:44 https://pokeapi.co/api/v2/pokemon/5
+2025/11/06 16:27:44 Current foorloop ID: 6
+2025/11/06 16:27:44 https://pokeapi.co/api/v2/pokemon/6
+2025/11/06 16:27:47 26
+2025/11/06 16:27:47 cursor1
+2025/11/06 16:27:47 36
+2025/11/06 16:27:47 cursor2
+2025/11/06 16:27:48 46
+2025/11/06 16:27:48 cursor3
+2025/11/06 16:27:48 56
+2025/11/06 16:27:48 cursor4
+2025/11/06 16:27:48 66
+2025/11/06 16:27:48 cursor5
+2025/11/06 16:27:48 GETTING NEXT POKEMON
+2025/11/06 16:27:48 Current ID: 5
+2025/11/06 16:27:48 Current foorloop ID: 10
+2025/11/06 16:27:48 https://pokeapi.co/api/v2/pokemon/10
+2025/11/06 16:27:48 Current foorloop ID: 11
+2025/11/06 16:27:48 https://pokeapi.co/api/v2/pokemon/11
+2025/11/06 16:27:49 Current foorloop ID: 12
+2025/11/06 16:27:49 https://pokeapi.co/api/v2/pokemon/12
+2025/11/06 16:27:49 Current foorloop ID: 13
+2025/11/06 16:27:49 https://pokeapi.co/api/v2/pokemon/13
+2025/11/06 16:27:49 Current foorloop ID: 14
+2025/11/06 16:27:49 https://pokeapi.co/api/v2/pokemon/14
+2025/11/06 16:28:38 https://pokeapi.co/api/v2/pokemon/1
+2025/11/06 16:28:38 GETTING NEXT POKEMON
+2025/11/06 16:28:38 Current ID: 1
+2025/11/06 16:28:38 Current foorloop ID: 1
+2025/11/06 16:28:38 https://pokeapi.co/api/v2/pokemon/2
+2025/11/06 16:28:38 Current foorloop ID: 1
+2025/11/06 16:28:38 https://pokeapi.co/api/v2/pokemon/3
+2025/11/06 16:28:38 Current foorloop ID: 1
+2025/11/06 16:28:38 https://pokeapi.co/api/v2/pokemon/4
+2025/11/06 16:28:38 Current foorloop ID: 1
+2025/11/06 16:28:38 https://pokeapi.co/api/v2/pokemon/5
+2025/11/06 16:28:38 Current foorloop ID: 1
+2025/11/06 16:28:38 https://pokeapi.co/api/v2/pokemon/6
+2025/11/06 16:28:39 26
+2025/11/06 16:28:39 cursor1
+2025/11/06 16:28:39 36
+2025/11/06 16:28:39 cursor2
+2025/11/06 16:28:40 46
+2025/11/06 16:28:40 cursor3
+2025/11/06 16:28:41 56
+2025/11/06 16:28:41 cursor4
+2025/11/06 16:28:41 66
+2025/11/06 16:28:41 cursor5
+2025/11/06 16:28:41 GETTING NEXT POKEMON
+2025/11/06 16:28:41 Current ID: 5
+2025/11/06 16:28:41 Current foorloop ID: 5
+2025/11/06 16:28:41 https://pokeapi.co/api/v2/pokemon/10
+2025/11/06 16:28:41 Current foorloop ID: 5
+2025/11/06 16:28:41 https://pokeapi.co/api/v2/pokemon/11
+2025/11/06 16:28:41 Current foorloop ID: 5
+2025/11/06 16:28:41 https://pokeapi.co/api/v2/pokemon/12
+2025/11/06 16:28:42 Current foorloop ID: 5
+2025/11/06 16:28:42 https://pokeapi.co/api/v2/pokemon/13
+2025/11/06 16:28:42 Current foorloop ID: 5
+2025/11/06 16:28:42 https://pokeapi.co/api/v2/pokemon/14
+2025/11/06 16:29:24 https://pokeapi.co/api/v2/pokemon/1
+2025/11/06 16:29:24 GETTING NEXT POKEMON
+2025/11/06 16:29:24 Current ID: 1
+2025/11/06 16:29:24 Current foorloop ID: 1
+2025/11/06 16:29:24 https://pokeapi.co/api/v2/pokemon/2
+2025/11/06 16:29:24 Current foorloop ID: 2
+2025/11/06 16:29:24 https://pokeapi.co/api/v2/pokemon/3
+2025/11/06 16:29:24 Current foorloop ID: 3
+2025/11/06 16:29:24 https://pokeapi.co/api/v2/pokemon/4
+2025/11/06 16:29:24 Current foorloop ID: 4
+2025/11/06 16:29:24 https://pokeapi.co/api/v2/pokemon/5
+2025/11/06 16:29:25 Current foorloop ID: 5
+2025/11/06 16:29:25 https://pokeapi.co/api/v2/pokemon/6
+2025/11/06 16:29:26 26
+2025/11/06 16:29:26 cursor1
+2025/11/06 16:29:26 36
+2025/11/06 16:29:26 cursor2
+2025/11/06 16:29:27 46
+2025/11/06 16:29:27 cursor3
+2025/11/06 16:29:28 56
+2025/11/06 16:29:28 cursor4
+2025/11/06 16:29:28 66
+2025/11/06 16:29:28 cursor5
+2025/11/06 16:29:28 GETTING NEXT POKEMON
+2025/11/06 16:29:28 Current ID: 5
+2025/11/06 16:29:28 Current foorloop ID: 5
+2025/11/06 16:29:28 https://pokeapi.co/api/v2/pokemon/10
+2025/11/06 16:29:28 Current foorloop ID: 6
+2025/11/06 16:29:28 https://pokeapi.co/api/v2/pokemon/11
+2025/11/06 16:29:28 Current foorloop ID: 7
+2025/11/06 16:29:28 https://pokeapi.co/api/v2/pokemon/12
+2025/11/06 16:29:28 Current foorloop ID: 8
+2025/11/06 16:29:28 https://pokeapi.co/api/v2/pokemon/13
+2025/11/06 16:29:28 Current foorloop ID: 9
+2025/11/06 16:29:28 https://pokeapi.co/api/v2/pokemon/14
+2025/11/06 16:30:11 https://pokeapi.co/api/v2/pokemon/1
+2025/11/06 16:30:11 GETTING NEXT POKEMON
+2025/11/06 16:30:11 Current ID: 1
+2025/11/06 16:30:11 Current foorloop ID: 2
+2025/11/06 16:30:11 https://pokeapi.co/api/v2/pokemon/2
+2025/11/06 16:30:11 Current foorloop ID: 3
+2025/11/06 16:30:11 https://pokeapi.co/api/v2/pokemon/3
+2025/11/06 16:30:11 Current foorloop ID: 4
+2025/11/06 16:30:11 https://pokeapi.co/api/v2/pokemon/4
+2025/11/06 16:30:12 Current foorloop ID: 5
+2025/11/06 16:30:12 https://pokeapi.co/api/v2/pokemon/5
+2025/11/06 16:30:12 Current foorloop ID: 6
+2025/11/06 16:30:12 https://pokeapi.co/api/v2/pokemon/6
+2025/11/06 16:30:12 26
+2025/11/06 16:30:12 cursor1
+2025/11/06 16:30:13 36
+2025/11/06 16:30:13 cursor2
+2025/11/06 16:30:13 46
+2025/11/06 16:30:13 cursor3
+2025/11/06 16:30:13 56
+2025/11/06 16:30:13 cursor4
+2025/11/06 16:30:13 66
+2025/11/06 16:30:13 cursor5
+2025/11/06 16:30:13 GETTING NEXT POKEMON
+2025/11/06 16:30:13 Current ID: 5
+2025/11/06 16:30:13 Current foorloop ID: 6
+2025/11/06 16:30:13 Current foorloop ID: 7
+2025/11/06 16:30:13 https://pokeapi.co/api/v2/pokemon/7
+2025/11/06 16:30:13 Current foorloop ID: 8
+2025/11/06 16:30:13 https://pokeapi.co/api/v2/pokemon/8
+2025/11/06 16:30:14 Current foorloop ID: 9
+2025/11/06 16:30:14 https://pokeapi.co/api/v2/pokemon/9
+2025/11/06 16:30:14 Current foorloop ID: 10
+2025/11/06 16:30:14 https://pokeapi.co/api/v2/pokemon/10
+2025/11/06 16:30:15 710
+2025/11/06 16:30:15 cursor6
+2025/11/06 16:30:16 810
+2025/11/06 16:30:16 cursor7
+2025/11/06 16:30:16 910
+2025/11/06 16:30:16 cursor8
+2025/11/06 16:30:17 1010
+2025/11/06 16:30:17 cursor9
+2025/11/06 16:30:17 GETTING NEXT POKEMON
+2025/11/06 16:30:17 Current ID: 9
+2025/11/06 16:30:17 Current foorloop ID: 10
+2025/11/06 16:30:17 Current foorloop ID: 11
+2025/11/06 16:30:17 https://pokeapi.co/api/v2/pokemon/11
+2025/11/06 16:30:17 Current foorloop ID: 12
+2025/11/06 16:30:17 https://pokeapi.co/api/v2/pokemon/12
+2025/11/06 16:30:17 Current foorloop ID: 13
+2025/11/06 16:30:17 https://pokeapi.co/api/v2/pokemon/13
+2025/11/06 16:30:17 Current foorloop ID: 14
+2025/11/06 16:30:17 https://pokeapi.co/api/v2/pokemon/14
+2025/11/06 16:30:18 1114
+2025/11/06 16:30:18 cursor10
+2025/11/06 16:30:19 1214
+2025/11/06 16:30:19 cursor11
+2025/11/06 16:30:19 1314
+2025/11/06 16:30:19 cursor12
+2025/11/06 16:30:20 1414
+2025/11/06 16:30:20 cursor13
+2025/11/06 16:30:20 GETTING NEXT POKEMON
+2025/11/06 16:30:20 Current ID: 13
+2025/11/06 16:30:20 Current foorloop ID: 14
+2025/11/06 16:30:20 Current foorloop ID: 15
+2025/11/06 16:30:20 https://pokeapi.co/api/v2/pokemon/15
+2025/11/06 16:30:20 Current foorloop ID: 16
+2025/11/06 16:30:20 https://pokeapi.co/api/v2/pokemon/16
+2025/11/06 16:30:20 Current foorloop ID: 17
+2025/11/06 16:30:20 https://pokeapi.co/api/v2/pokemon/17
+2025/11/06 16:30:20 Current foorloop ID: 18
+2025/11/06 16:30:20 https://pokeapi.co/api/v2/pokemon/18
+2025/11/06 16:30:20 1518
+2025/11/06 16:30:20 cursor14
+2025/11/06 16:30:21 1618
+2025/11/06 16:30:21 cursor15
+2025/11/06 16:30:21 1718
+2025/11/06 16:30:21 cursor16
+2025/11/06 16:30:22 1818
+2025/11/06 16:30:22 cursor17
+2025/11/06 16:30:22 GETTING NEXT POKEMON
+2025/11/06 16:30:22 Current ID: 17
+2025/11/06 16:30:22 Current foorloop ID: 18
+2025/11/06 16:30:22 Current foorloop ID: 19
+2025/11/06 16:30:22 https://pokeapi.co/api/v2/pokemon/19
+2025/11/06 16:30:22 Current foorloop ID: 20
+2025/11/06 16:30:22 https://pokeapi.co/api/v2/pokemon/20
+2025/11/06 16:30:22 Current foorloop ID: 21
+2025/11/06 16:30:22 https://pokeapi.co/api/v2/pokemon/21
+2025/11/06 16:30:22 Current foorloop ID: 22
+2025/11/06 16:30:22 https://pokeapi.co/api/v2/pokemon/22
+2025/11/06 16:30:22 1922
+2025/11/06 16:30:22 cursor18
+2025/11/06 16:30:23 2022
+2025/11/06 16:30:23 cursor19
+2025/11/06 16:30:23 2122
+2025/11/06 16:30:23 cursor20
+2025/11/06 16:30:24 2222
+2025/11/06 16:30:24 cursor21
+2025/11/06 16:30:24 GETTING NEXT POKEMON
+2025/11/06 16:30:24 Current ID: 21
+2025/11/06 16:30:24 Current foorloop ID: 22
+2025/11/06 16:30:24 Current foorloop ID: 23
+2025/11/06 16:30:24 https://pokeapi.co/api/v2/pokemon/23
+2025/11/06 16:30:24 Current foorloop ID: 24
+2025/11/06 16:30:24 https://pokeapi.co/api/v2/pokemon/24
+2025/11/06 16:30:24 Current foorloop ID: 25
+2025/11/06 16:30:24 https://pokeapi.co/api/v2/pokemon/25
+2025/11/06 16:30:24 Current foorloop ID: 26
+2025/11/06 16:30:24 https://pokeapi.co/api/v2/pokemon/26
+2025/11/06 16:30:25 2326
+2025/11/06 16:30:25 cursor22
+2025/11/06 16:30:25 2426
+2025/11/06 16:30:25 cursor23
+2025/11/06 16:30:25 2526
+2025/11/06 16:30:25 cursor24
+2025/11/06 16:30:26 2626
+2025/11/06 16:30:26 cursor25
+2025/11/06 16:30:26 GETTING NEXT POKEMON
+2025/11/06 16:30:26 Current ID: 25
+2025/11/06 16:30:26 Current foorloop ID: 26
+2025/11/06 16:30:26 Current foorloop ID: 27
+2025/11/06 16:30:26 https://pokeapi.co/api/v2/pokemon/27
+2025/11/06 16:30:26 Current foorloop ID: 28
+2025/11/06 16:30:26 https://pokeapi.co/api/v2/pokemon/28
+2025/11/06 16:30:26 Current foorloop ID: 29
+2025/11/06 16:30:26 https://pokeapi.co/api/v2/pokemon/29
+2025/11/06 16:30:26 Current foorloop ID: 30
+2025/11/06 16:30:26 https://pokeapi.co/api/v2/pokemon/30
+2025/11/06 16:30:29 1630
+2025/11/06 16:30:29 cursor15
+2025/11/06 16:30:29 1730
+2025/11/06 16:30:29 cursor16
+2025/11/06 16:30:29 1830
+2025/11/06 16:30:29 cursor17
+2025/11/06 16:30:29 1930
+2025/11/06 16:30:29 cursor18
+2025/11/06 16:30:30 2030
+2025/11/06 16:30:30 cursor19
+2025/11/06 16:30:30 2130
+2025/11/06 16:30:30 cursor20
+2025/11/06 16:30:30 2230
+2025/11/06 16:30:30 cursor21
+2025/11/06 16:30:30 2330
+2025/11/06 16:30:30 cursor22
+2025/11/06 16:30:30 2430
+2025/11/06 16:30:30 cursor23
+2025/11/06 16:30:31 2530
+2025/11/06 16:30:31 cursor24
+2025/11/06 16:30:31 2630
+2025/11/06 16:30:31 cursor25
+2025/11/06 16:30:32 2730
+2025/11/06 16:30:32 cursor26
+2025/11/06 16:30:33 2830
+2025/11/06 16:30:33 cursor27
+2025/11/06 16:30:34 2930
+2025/11/06 16:30:34 cursor28
+2025/11/06 16:30:34 3030
+2025/11/06 16:30:34 cursor29
+2025/11/06 16:30:34 GETTING NEXT POKEMON
+2025/11/06 16:30:34 Current ID: 29
+2025/11/06 16:30:34 Current foorloop ID: 30
+2025/11/06 16:30:34 Current foorloop ID: 31
+2025/11/06 16:30:34 https://pokeapi.co/api/v2/pokemon/31
+2025/11/06 16:30:34 Current foorloop ID: 32
+2025/11/06 16:30:34 https://pokeapi.co/api/v2/pokemon/32
+2025/11/06 16:30:34 Current foorloop ID: 33
+2025/11/06 16:30:34 https://pokeapi.co/api/v2/pokemon/33
+2025/11/06 16:30:35 Current foorloop ID: 34
+2025/11/06 16:30:35 https://pokeapi.co/api/v2/pokemon/34
+2025/11/06 16:30:35 3134
+2025/11/06 16:30:35 cursor30
+2025/11/06 16:30:36 3234
+2025/11/06 16:30:36 cursor31
+2025/11/06 16:30:36 3334
+2025/11/06 16:30:36 cursor32
+2025/11/06 16:30:37 3434
+2025/11/06 16:30:37 cursor33
+2025/11/06 16:30:37 GETTING NEXT POKEMON
+2025/11/06 16:30:37 Current ID: 33
+2025/11/06 16:30:37 Current foorloop ID: 34
+2025/11/06 16:30:37 Current foorloop ID: 35
+2025/11/06 16:30:37 https://pokeapi.co/api/v2/pokemon/35
+2025/11/06 16:30:37 Current foorloop ID: 36
+2025/11/06 16:30:37 https://pokeapi.co/api/v2/pokemon/36
+2025/11/06 16:30:37 Current foorloop ID: 37
+2025/11/06 16:30:37 https://pokeapi.co/api/v2/pokemon/37
+2025/11/06 16:30:37 Current foorloop ID: 38
+2025/11/06 16:30:37 https://pokeapi.co/api/v2/pokemon/38
+2025/11/06 16:30:38 3538
+2025/11/06 16:30:38 cursor34
+2025/11/06 16:30:38 3638
+2025/11/06 16:30:38 cursor35
+2025/11/06 16:30:39 3738
+2025/11/06 16:30:39 cursor36
+2025/11/06 16:30:39 3838
+2025/11/06 16:30:39 cursor37
+2025/11/06 16:30:39 GETTING NEXT POKEMON
+2025/11/06 16:30:39 Current ID: 37
+2025/11/06 16:30:39 Current foorloop ID: 38
+2025/11/06 16:30:39 Current foorloop ID: 39
+2025/11/06 16:30:39 https://pokeapi.co/api/v2/pokemon/39
+2025/11/06 16:30:39 Current foorloop ID: 40
+2025/11/06 16:30:39 https://pokeapi.co/api/v2/pokemon/40
+2025/11/06 16:30:39 3939
+2025/11/06 16:30:39 cursor38
+2025/11/06 16:30:39 GETTING NEXT POKEMON
+2025/11/06 16:30:39 Current ID: 38
+2025/11/06 16:30:39 Current foorloop ID: 39
+2025/11/06 16:30:39 Current foorloop ID: 40
+2025/11/06 16:30:39 https://pokeapi.co/api/v2/pokemon/40
+2025/11/06 16:30:39 Current foorloop ID: 41
+2025/11/06 16:30:39 https://pokeapi.co/api/v2/pokemon/41
+2025/11/06 16:30:40 Current foorloop ID: 41
+2025/11/06 16:30:40 https://pokeapi.co/api/v2/pokemon/41
+2025/11/06 16:30:40 Current foorloop ID: 42
+2025/11/06 16:30:40 https://pokeapi.co/api/v2/pokemon/42
+2025/11/06 16:30:40 Current foorloop ID: 42
+2025/11/06 16:30:40 https://pokeapi.co/api/v2/pokemon/42
+2025/11/06 16:30:40 Current foorloop ID: 43
+2025/11/06 16:30:40 https://pokeapi.co/api/v2/pokemon/43
+2025/11/06 16:30:40 4043
+2025/11/06 16:30:40 cursor39
+2025/11/06 16:30:41 4143
+2025/11/06 16:30:41 cursor40
+2025/11/06 16:30:41 4243
+2025/11/06 16:30:41 cursor41
+2025/11/06 16:30:41 4343
+2025/11/06 16:30:41 cursor42
+2025/11/06 16:30:41 GETTING NEXT POKEMON
+2025/11/06 16:30:41 Current ID: 42
+2025/11/06 16:30:41 Current foorloop ID: 43
+2025/11/06 16:30:41 Current foorloop ID: 44
+2025/11/06 16:30:41 https://pokeapi.co/api/v2/pokemon/44
+2025/11/06 16:30:41 Current foorloop ID: 45
+2025/11/06 16:30:41 https://pokeapi.co/api/v2/pokemon/45
+2025/11/06 16:30:41 4444
+2025/11/06 16:30:41 cursor43
+2025/11/06 16:30:41 GETTING NEXT POKEMON
+2025/11/06 16:30:41 Current ID: 43
+2025/11/06 16:30:41 Current foorloop ID: 44
+2025/11/06 16:30:41 Current foorloop ID: 45
+2025/11/06 16:30:41 https://pokeapi.co/api/v2/pokemon/45
+2025/11/06 16:30:41 Current foorloop ID: 46
+2025/11/06 16:30:41 https://pokeapi.co/api/v2/pokemon/46
+2025/11/06 16:30:41 Current foorloop ID: 46
+2025/11/06 16:30:41 https://pokeapi.co/api/v2/pokemon/46
+2025/11/06 16:30:41 Current foorloop ID: 47
+2025/11/06 16:30:41 https://pokeapi.co/api/v2/pokemon/47
+2025/11/06 16:30:41 4546
+2025/11/06 16:30:41 cursor44
+2025/11/06 16:30:41 Current foorloop ID: 47
+2025/11/06 16:30:41 https://pokeapi.co/api/v2/pokemon/47
+2025/11/06 16:30:41 Current foorloop ID: 48
+2025/11/06 16:30:41 https://pokeapi.co/api/v2/pokemon/48
+2025/11/06 16:30:42 4648
+2025/11/06 16:30:42 cursor45
+2025/11/06 16:30:42 4748
+2025/11/06 16:30:42 cursor46
+2025/11/06 16:30:42 4848
+2025/11/06 16:30:42 cursor47
+2025/11/06 16:30:42 GETTING NEXT POKEMON
+2025/11/06 16:30:42 Current ID: 47
+2025/11/06 16:30:42 Current foorloop ID: 48
+2025/11/06 16:30:42 Current foorloop ID: 49
+2025/11/06 16:30:42 https://pokeapi.co/api/v2/pokemon/49
+2025/11/06 16:30:42 Current foorloop ID: 50
+2025/11/06 16:30:42 https://pokeapi.co/api/v2/pokemon/50
+2025/11/06 16:30:42 4949
+2025/11/06 16:30:42 cursor48
+2025/11/06 16:30:42 GETTING NEXT POKEMON
+2025/11/06 16:30:42 Current ID: 48
+2025/11/06 16:30:42 Current foorloop ID: 49
+2025/11/06 16:30:42 Current foorloop ID: 50
+2025/11/06 16:30:42 https://pokeapi.co/api/v2/pokemon/50
+2025/11/06 16:30:42 Current foorloop ID: 51
+2025/11/06 16:30:42 https://pokeapi.co/api/v2/pokemon/51
+2025/11/06 16:30:43 Current foorloop ID: 51
+2025/11/06 16:30:43 https://pokeapi.co/api/v2/pokemon/51
+2025/11/06 16:30:43 Current foorloop ID: 52
+2025/11/06 16:30:43 https://pokeapi.co/api/v2/pokemon/52
+2025/11/06 16:30:43 Current foorloop ID: 52
+2025/11/06 16:30:43 https://pokeapi.co/api/v2/pokemon/52
+2025/11/06 16:30:43 5052
+2025/11/06 16:30:43 cursor49
+2025/11/06 16:30:43 Current foorloop ID: 53
+2025/11/06 16:30:43 https://pokeapi.co/api/v2/pokemon/53
+2025/11/06 16:30:43 5153
+2025/11/06 16:30:43 cursor50
+2025/11/06 16:30:43 5253
+2025/11/06 16:30:43 cursor51
+2025/11/06 16:30:45 4653
+2025/11/06 16:30:45 cursor45
+2025/11/06 16:30:45 4753
+2025/11/06 16:30:45 cursor46
+2025/11/06 16:30:45 4853
+2025/11/06 16:30:45 cursor47
+2025/11/06 16:30:45 4953
+2025/11/06 16:30:45 cursor48
+2025/11/06 16:30:45 5053
+2025/11/06 16:30:45 cursor49
+2025/11/06 16:30:45 5153
+2025/11/06 16:30:45 cursor50
+2025/11/06 16:30:46 5253
+2025/11/06 16:30:46 cursor51
+2025/11/06 16:30:46 5353
+2025/11/06 16:30:46 cursor52
+2025/11/06 16:30:46 GETTING NEXT POKEMON
+2025/11/06 16:30:46 Current ID: 52
+2025/11/06 16:30:46 Current foorloop ID: 53
+2025/11/06 16:30:46 Current foorloop ID: 54
+2025/11/06 16:30:46 https://pokeapi.co/api/v2/pokemon/54
+2025/11/06 16:30:46 Current foorloop ID: 55
+2025/11/06 16:30:46 https://pokeapi.co/api/v2/pokemon/55
+2025/11/06 16:30:46 5454
+2025/11/06 16:30:46 cursor53
+2025/11/06 16:30:46 GETTING NEXT POKEMON
+2025/11/06 16:30:46 Current ID: 53
+2025/11/06 16:30:46 Current foorloop ID: 54
+2025/11/06 16:30:46 Current foorloop ID: 55
+2025/11/06 16:30:46 https://pokeapi.co/api/v2/pokemon/55
+2025/11/06 16:30:46 Current foorloop ID: 56
+2025/11/06 16:30:46 https://pokeapi.co/api/v2/pokemon/56
+2025/11/06 16:30:46 Current foorloop ID: 56
+2025/11/06 16:30:46 https://pokeapi.co/api/v2/pokemon/56
+2025/11/06 16:30:46 Current foorloop ID: 57
+2025/11/06 16:30:46 https://pokeapi.co/api/v2/pokemon/57
+2025/11/06 16:30:46 5556
+2025/11/06 16:30:46 cursor54
+2025/11/06 16:30:46 Current foorloop ID: 57
+2025/11/06 16:30:46 https://pokeapi.co/api/v2/pokemon/57
+2025/11/06 16:30:46 Current foorloop ID: 58
+2025/11/06 16:30:46 https://pokeapi.co/api/v2/pokemon/58
+2025/11/06 16:30:46 5657
+2025/11/06 16:30:46 cursor55
+2025/11/06 16:30:46 5758
+2025/11/06 16:30:46 cursor56
+2025/11/06 16:30:47 5858
+2025/11/06 16:30:47 cursor57
+2025/11/06 16:30:47 GETTING NEXT POKEMON
+2025/11/06 16:30:47 Current ID: 57
+2025/11/06 16:30:47 Current foorloop ID: 58
+2025/11/06 16:30:47 Current foorloop ID: 59
+2025/11/06 16:30:47 https://pokeapi.co/api/v2/pokemon/59
+2025/11/06 16:30:47 Current foorloop ID: 60
+2025/11/06 16:30:47 https://pokeapi.co/api/v2/pokemon/60
+2025/11/06 16:30:47 5959
+2025/11/06 16:30:47 cursor58
+2025/11/06 16:30:47 GETTING NEXT POKEMON
+2025/11/06 16:30:47 Current ID: 58
+2025/11/06 16:30:47 Current foorloop ID: 59
+2025/11/06 16:30:47 Current foorloop ID: 60
+2025/11/06 16:30:47 https://pokeapi.co/api/v2/pokemon/60
+2025/11/06 16:30:47 Current foorloop ID: 61
+2025/11/06 16:30:47 https://pokeapi.co/api/v2/pokemon/61
+2025/11/06 16:30:47 Current foorloop ID: 61
+2025/11/06 16:30:47 https://pokeapi.co/api/v2/pokemon/61
+2025/11/06 16:30:47 Current foorloop ID: 62
+2025/11/06 16:30:47 https://pokeapi.co/api/v2/pokemon/62
+2025/11/06 16:30:47 6061
+2025/11/06 16:30:47 cursor59
+2025/11/06 16:30:47 Current foorloop ID: 62
+2025/11/06 16:30:47 https://pokeapi.co/api/v2/pokemon/62
+2025/11/06 16:30:47 Current foorloop ID: 63
+2025/11/06 16:30:47 https://pokeapi.co/api/v2/pokemon/63
+2025/11/06 16:30:47 6162
+2025/11/06 16:30:47 cursor60
+2025/11/06 16:30:48 6263
+2025/11/06 16:30:48 cursor61
+2025/11/06 16:30:48 6363
+2025/11/06 16:30:48 cursor62
+2025/11/06 16:30:48 GETTING NEXT POKEMON
+2025/11/06 16:30:48 Current ID: 62
+2025/11/06 16:30:48 Current foorloop ID: 63
+2025/11/06 16:30:48 Current foorloop ID: 64
+2025/11/06 16:30:48 https://pokeapi.co/api/v2/pokemon/64
+2025/11/06 16:30:48 Current foorloop ID: 65
+2025/11/06 16:30:48 https://pokeapi.co/api/v2/pokemon/65
+2025/11/06 16:30:48 6464
+2025/11/06 16:30:48 cursor63
+2025/11/06 16:30:48 GETTING NEXT POKEMON
+2025/11/06 16:30:48 Current ID: 63
+2025/11/06 16:30:48 Current foorloop ID: 64
+2025/11/06 16:30:48 Current foorloop ID: 65
+2025/11/06 16:30:48 https://pokeapi.co/api/v2/pokemon/65
+2025/11/06 16:30:48 Current foorloop ID: 66
+2025/11/06 16:30:48 https://pokeapi.co/api/v2/pokemon/66
+2025/11/06 16:30:48 Current foorloop ID: 66
+2025/11/06 16:30:48 https://pokeapi.co/api/v2/pokemon/66
+2025/11/06 16:30:48 Current foorloop ID: 67
+2025/11/06 16:30:48 https://pokeapi.co/api/v2/pokemon/67
+2025/11/06 16:30:48 6566
+2025/11/06 16:30:48 cursor64
+2025/11/06 16:30:48 Current foorloop ID: 67
+2025/11/06 16:30:48 https://pokeapi.co/api/v2/pokemon/67
+2025/11/06 16:30:48 Current foorloop ID: 68
+2025/11/06 16:30:48 https://pokeapi.co/api/v2/pokemon/68
+2025/11/06 16:30:48 6667
+2025/11/06 16:30:48 cursor65
+2025/11/06 16:30:48 6768
+2025/11/06 16:30:48 cursor66
+2025/11/06 16:30:49 6868
+2025/11/06 16:30:49 cursor67
+2025/11/06 16:30:49 GETTING NEXT POKEMON
+2025/11/06 16:30:49 Current ID: 67
+2025/11/06 16:30:49 Current foorloop ID: 68
+2025/11/06 16:30:49 Current foorloop ID: 69
+2025/11/06 16:30:49 https://pokeapi.co/api/v2/pokemon/69
+2025/11/06 16:30:49 6968
+2025/11/06 16:30:49 cursor68
+2025/11/06 16:30:49 Get "": unsupported protocol scheme ""
+2025/11/06 16:31:39 https://pokeapi.co/api/v2/pokemon/1
+2025/11/06 16:31:39 GETTING NEXT POKEMON
+2025/11/06 16:31:39 Current ID: 1
+2025/11/06 16:31:39 Current foorloop ID: 2
+2025/11/06 16:31:39 https://pokeapi.co/api/v2/pokemon/2
+2025/11/06 16:31:40 Current foorloop ID: 3
+2025/11/06 16:31:40 https://pokeapi.co/api/v2/pokemon/3
+2025/11/06 16:31:40 Current foorloop ID: 4
+2025/11/06 16:31:40 https://pokeapi.co/api/v2/pokemon/4
+2025/11/06 16:31:40 Current foorloop ID: 5
+2025/11/06 16:31:40 https://pokeapi.co/api/v2/pokemon/5
+2025/11/06 16:31:40 Current foorloop ID: 6
+2025/11/06 16:31:40 https://pokeapi.co/api/v2/pokemon/6
+2025/11/06 16:31:40 Current foorloop ID: 7
+2025/11/06 16:31:40 https://pokeapi.co/api/v2/pokemon/7
+2025/11/06 16:31:40 Current foorloop ID: 8
+2025/11/06 16:31:40 https://pokeapi.co/api/v2/pokemon/8
+2025/11/06 16:31:40 Current foorloop ID: 9
+2025/11/06 16:31:40 https://pokeapi.co/api/v2/pokemon/9
+2025/11/06 16:31:40 Current foorloop ID: 10
+2025/11/06 16:31:40 https://pokeapi.co/api/v2/pokemon/10
+2025/11/06 16:31:41 Current foorloop ID: 11
+2025/11/06 16:31:41 https://pokeapi.co/api/v2/pokemon/11
+2025/11/06 16:31:42 211
+2025/11/06 16:31:42 cursor1
+2025/11/06 16:31:42 311
+2025/11/06 16:31:42 cursor2
+2025/11/06 16:31:43 411
+2025/11/06 16:31:43 cursor3
+2025/11/06 16:31:43 511
+2025/11/06 16:31:43 cursor4
+2025/11/06 16:31:43 611
+2025/11/06 16:31:43 cursor5
+2025/11/06 16:31:44 711
+2025/11/06 16:31:44 cursor6
+2025/11/06 16:31:44 811
+2025/11/06 16:31:44 cursor7
+2025/11/06 16:31:44 911
+2025/11/06 16:31:44 cursor8
+2025/11/06 16:31:44 1011
+2025/11/06 16:31:44 cursor9
+2025/11/06 16:31:45 1111
+2025/11/06 16:31:45 cursor10
+2025/11/06 16:31:45 GETTING NEXT POKEMON
+2025/11/06 16:31:45 Current ID: 10
+2025/11/06 16:31:45 Current foorloop ID: 11
+2025/11/06 16:31:45 Current foorloop ID: 12
+2025/11/06 16:31:45 https://pokeapi.co/api/v2/pokemon/12
+2025/11/06 16:31:45 Current foorloop ID: 13
+2025/11/06 16:31:45 https://pokeapi.co/api/v2/pokemon/13
+2025/11/06 16:31:45 1212
+2025/11/06 16:31:45 cursor11
+2025/11/06 16:31:45 GETTING NEXT POKEMON
+2025/11/06 16:31:45 Current ID: 11
+2025/11/06 16:31:45 Current foorloop ID: 12
+2025/11/06 16:31:45 Current foorloop ID: 13
+2025/11/06 16:31:45 https://pokeapi.co/api/v2/pokemon/13
+2025/11/06 16:31:45 Current foorloop ID: 14
+2025/11/06 16:31:45 https://pokeapi.co/api/v2/pokemon/14
+2025/11/06 16:31:45 Current foorloop ID: 14
+2025/11/06 16:31:45 https://pokeapi.co/api/v2/pokemon/14
+2025/11/06 16:31:45 Current foorloop ID: 15
+2025/11/06 16:31:45 https://pokeapi.co/api/v2/pokemon/15
+2025/11/06 16:31:45 1314
+2025/11/06 16:31:45 cursor12
+2025/11/06 16:31:45 Current foorloop ID: 15
+2025/11/06 16:31:45 https://pokeapi.co/api/v2/pokemon/15
+2025/11/06 16:31:45 Current foorloop ID: 16
+2025/11/06 16:31:45 https://pokeapi.co/api/v2/pokemon/16
+2025/11/06 16:31:45 Current foorloop ID: 16
+2025/11/06 16:31:45 https://pokeapi.co/api/v2/pokemon/16
+2025/11/06 16:31:45 Current foorloop ID: 17
+2025/11/06 16:31:45 https://pokeapi.co/api/v2/pokemon/17
+2025/11/06 16:31:45 1416
+2025/11/06 16:31:45 cursor13
+2025/11/06 16:31:45 Current foorloop ID: 17
+2025/11/06 16:31:45 https://pokeapi.co/api/v2/pokemon/17
+2025/11/06 16:31:45 Current foorloop ID: 18
+2025/11/06 16:31:45 https://pokeapi.co/api/v2/pokemon/18
+2025/11/06 16:31:45 Current foorloop ID: 18
+2025/11/06 16:31:45 https://pokeapi.co/api/v2/pokemon/18
+2025/11/06 16:31:45 Current foorloop ID: 19
+2025/11/06 16:31:45 https://pokeapi.co/api/v2/pokemon/19
+2025/11/06 16:31:46 Current foorloop ID: 19
+2025/11/06 16:31:46 https://pokeapi.co/api/v2/pokemon/19
+2025/11/06 16:31:46 Current foorloop ID: 20
+2025/11/06 16:31:46 https://pokeapi.co/api/v2/pokemon/20
+2025/11/06 16:31:46 1519
+2025/11/06 16:31:46 cursor14
+2025/11/06 16:31:46 Current foorloop ID: 20
+2025/11/06 16:31:46 https://pokeapi.co/api/v2/pokemon/20
+2025/11/06 16:31:46 Current foorloop ID: 21
+2025/11/06 16:31:46 https://pokeapi.co/api/v2/pokemon/21
+2025/11/06 16:31:46 1620
+2025/11/06 16:31:46 cursor15
+2025/11/06 16:31:46 1721
+2025/11/06 16:31:46 cursor16
+2025/11/06 16:31:46 1821
+2025/11/06 16:31:46 cursor17
+2025/11/06 16:31:46 1921
+2025/11/06 16:31:46 cursor18
+2025/11/06 16:31:47 2021
+2025/11/06 16:31:47 cursor19
+2025/11/06 16:31:47 2121
+2025/11/06 16:31:47 cursor20
+2025/11/06 16:31:47 GETTING NEXT POKEMON
+2025/11/06 16:31:47 Current ID: 20
+2025/11/06 16:31:47 Current foorloop ID: 21
+2025/11/06 16:31:47 Current foorloop ID: 22
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/22
+2025/11/06 16:31:47 Current foorloop ID: 23
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/23
+2025/11/06 16:31:47 2222
+2025/11/06 16:31:47 cursor21
+2025/11/06 16:31:47 GETTING NEXT POKEMON
+2025/11/06 16:31:47 Current ID: 21
+2025/11/06 16:31:47 Current foorloop ID: 22
+2025/11/06 16:31:47 Current foorloop ID: 23
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/23
+2025/11/06 16:31:47 Current foorloop ID: 24
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/24
+2025/11/06 16:31:47 Current foorloop ID: 24
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/24
+2025/11/06 16:31:47 2323
+2025/11/06 16:31:47 cursor22
+2025/11/06 16:31:47 GETTING NEXT POKEMON
+2025/11/06 16:31:47 Current ID: 22
+2025/11/06 16:31:47 Current foorloop ID: 23
+2025/11/06 16:31:47 Current foorloop ID: 24
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/24
+2025/11/06 16:31:47 Current foorloop ID: 25
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/25
+2025/11/06 16:31:47 Current foorloop ID: 25
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/25
+2025/11/06 16:31:47 Current foorloop ID: 25
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/25
+2025/11/06 16:31:47 2424
+2025/11/06 16:31:47 cursor23
+2025/11/06 16:31:47 GETTING NEXT POKEMON
+2025/11/06 16:31:47 Current ID: 23
+2025/11/06 16:31:47 Current foorloop ID: 24
+2025/11/06 16:31:47 Current foorloop ID: 25
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/25
+2025/11/06 16:31:47 Current foorloop ID: 26
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/26
+2025/11/06 16:31:47 Current foorloop ID: 26
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/26
+2025/11/06 16:31:47 Current foorloop ID: 26
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/26
+2025/11/06 16:31:47 Current foorloop ID: 26
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/26
+2025/11/06 16:31:47 2525
+2025/11/06 16:31:47 cursor24
+2025/11/06 16:31:47 GETTING NEXT POKEMON
+2025/11/06 16:31:47 Current ID: 24
+2025/11/06 16:31:47 Current foorloop ID: 25
+2025/11/06 16:31:47 Current foorloop ID: 26
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/26
+2025/11/06 16:31:47 Current foorloop ID: 27
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/27
+2025/11/06 16:31:47 Current foorloop ID: 27
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/27
+2025/11/06 16:31:47 Current foorloop ID: 27
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/27
+2025/11/06 16:31:47 Current foorloop ID: 27
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/27
+2025/11/06 16:31:47 Current foorloop ID: 27
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/27
+2025/11/06 16:31:47 2626
+2025/11/06 16:31:47 cursor25
+2025/11/06 16:31:47 GETTING NEXT POKEMON
+2025/11/06 16:31:47 Current ID: 25
+2025/11/06 16:31:47 Current foorloop ID: 26
+2025/11/06 16:31:47 Current foorloop ID: 27
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/27
+2025/11/06 16:31:47 Current foorloop ID: 28
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/28
+2025/11/06 16:31:47 Current foorloop ID: 28
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/28
+2025/11/06 16:31:47 Current foorloop ID: 28
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/28
+2025/11/06 16:31:47 Current foorloop ID: 28
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/28
+2025/11/06 16:31:47 Current foorloop ID: 28
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/28
+2025/11/06 16:31:47 Current foorloop ID: 28
+2025/11/06 16:31:47 https://pokeapi.co/api/v2/pokemon/28
+2025/11/06 16:31:48 Current foorloop ID: 29
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/29
+2025/11/06 16:31:48 Current foorloop ID: 29
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/29
+2025/11/06 16:31:48 2728
+2025/11/06 16:31:48 cursor26
+2025/11/06 16:31:48 Current foorloop ID: 29
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/29
+2025/11/06 16:31:48 Current foorloop ID: 29
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/29
+2025/11/06 16:31:48 Current foorloop ID: 29
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/29
+2025/11/06 16:31:48 Current foorloop ID: 29
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/29
+2025/11/06 16:31:48 Current foorloop ID: 30
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/30
+2025/11/06 16:31:48 Current foorloop ID: 30
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/30
+2025/11/06 16:31:48 Current foorloop ID: 30
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/30
+2025/11/06 16:31:48 2829
+2025/11/06 16:31:48 cursor27
+2025/11/06 16:31:48 Current foorloop ID: 30
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/30
+2025/11/06 16:31:48 Current foorloop ID: 30
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/30
+2025/11/06 16:31:48 Current foorloop ID: 30
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/30
+2025/11/06 16:31:48 Current foorloop ID: 31
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/31
+2025/11/06 16:31:48 Current foorloop ID: 31
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/31
+2025/11/06 16:31:48 2930
+2025/11/06 16:31:48 cursor28
+2025/11/06 16:31:48 Current foorloop ID: 31
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/31
+2025/11/06 16:31:48 Current foorloop ID: 31
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/31
+2025/11/06 16:31:48 Current foorloop ID: 31
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/31
+2025/11/06 16:31:48 Current foorloop ID: 32
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/32
+2025/11/06 16:31:48 Current foorloop ID: 32
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/32
+2025/11/06 16:31:48 3031
+2025/11/06 16:31:48 cursor29
+2025/11/06 16:31:48 Current foorloop ID: 32
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/32
+2025/11/06 16:31:48 Current foorloop ID: 32
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/32
+2025/11/06 16:31:48 Current foorloop ID: 33
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/33
+2025/11/06 16:31:48 Current foorloop ID: 33
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/33
+2025/11/06 16:31:48 3132
+2025/11/06 16:31:48 cursor30
+2025/11/06 16:31:48 Current foorloop ID: 33
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/33
+2025/11/06 16:31:48 Current foorloop ID: 34
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/34
+2025/11/06 16:31:48 Current foorloop ID: 34
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/34
+2025/11/06 16:31:48 3233
+2025/11/06 16:31:48 cursor31
+2025/11/06 16:31:48 Current foorloop ID: 35
+2025/11/06 16:31:48 https://pokeapi.co/api/v2/pokemon/35
+2025/11/06 16:31:48 3334
+2025/11/06 16:31:48 cursor32
+2025/11/06 16:31:49 3435
+2025/11/06 16:31:49 cursor33
+2025/11/06 16:31:49 3535
+2025/11/06 16:31:49 cursor34
+2025/11/06 16:31:49 GETTING NEXT POKEMON
+2025/11/06 16:31:49 Current ID: 34
+2025/11/06 16:31:49 Current foorloop ID: 35
+2025/11/06 16:31:49 Current foorloop ID: 36
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/36
+2025/11/06 16:31:49 Current foorloop ID: 37
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/37
+2025/11/06 16:31:49 3636
+2025/11/06 16:31:49 cursor35
+2025/11/06 16:31:49 GETTING NEXT POKEMON
+2025/11/06 16:31:49 Current ID: 35
+2025/11/06 16:31:49 Current foorloop ID: 36
+2025/11/06 16:31:49 Current foorloop ID: 37
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/37
+2025/11/06 16:31:49 Current foorloop ID: 38
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/38
+2025/11/06 16:31:49 Current foorloop ID: 38
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/38
+2025/11/06 16:31:49 3737
+2025/11/06 16:31:49 cursor36
+2025/11/06 16:31:49 GETTING NEXT POKEMON
+2025/11/06 16:31:49 Current ID: 36
+2025/11/06 16:31:49 Current foorloop ID: 37
+2025/11/06 16:31:49 Current foorloop ID: 38
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/38
+2025/11/06 16:31:49 Current foorloop ID: 39
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/39
+2025/11/06 16:31:49 Current foorloop ID: 39
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/39
+2025/11/06 16:31:49 Current foorloop ID: 39
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/39
+2025/11/06 16:31:49 3838
+2025/11/06 16:31:49 cursor37
+2025/11/06 16:31:49 GETTING NEXT POKEMON
+2025/11/06 16:31:49 Current ID: 37
+2025/11/06 16:31:49 Current foorloop ID: 38
+2025/11/06 16:31:49 Current foorloop ID: 39
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/39
+2025/11/06 16:31:49 Current foorloop ID: 40
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/40
+2025/11/06 16:31:49 Current foorloop ID: 40
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/40
+2025/11/06 16:31:49 Current foorloop ID: 40
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/40
+2025/11/06 16:31:49 Current foorloop ID: 40
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/40
+2025/11/06 16:31:49 3939
+2025/11/06 16:31:49 cursor38
+2025/11/06 16:31:49 GETTING NEXT POKEMON
+2025/11/06 16:31:49 Current ID: 38
+2025/11/06 16:31:49 Current foorloop ID: 39
+2025/11/06 16:31:49 Current foorloop ID: 40
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/40
+2025/11/06 16:31:49 Current foorloop ID: 41
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/41
+2025/11/06 16:31:49 Current foorloop ID: 41
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/41
+2025/11/06 16:31:49 Current foorloop ID: 41
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/41
+2025/11/06 16:31:49 Current foorloop ID: 41
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/41
+2025/11/06 16:31:49 Current foorloop ID: 41
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/41
+2025/11/06 16:31:49 4040
+2025/11/06 16:31:49 cursor39
+2025/11/06 16:31:49 GETTING NEXT POKEMON
+2025/11/06 16:31:49 Current ID: 39
+2025/11/06 16:31:49 Current foorloop ID: 40
+2025/11/06 16:31:49 Current foorloop ID: 41
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/41
+2025/11/06 16:31:49 Current foorloop ID: 42
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/42
+2025/11/06 16:31:49 Current foorloop ID: 42
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/42
+2025/11/06 16:31:49 Current foorloop ID: 42
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/42
+2025/11/06 16:31:49 Current foorloop ID: 42
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/42
+2025/11/06 16:31:49 Current foorloop ID: 42
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/42
+2025/11/06 16:31:49 Current foorloop ID: 42
+2025/11/06 16:31:49 https://pokeapi.co/api/v2/pokemon/42
+2025/11/06 16:31:50 4141
+2025/11/06 16:31:50 cursor40
+2025/11/06 16:31:50 GETTING NEXT POKEMON
+2025/11/06 16:31:50 Current ID: 40
+2025/11/06 16:31:50 Current foorloop ID: 41
+2025/11/06 16:31:50 Current foorloop ID: 42
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/42
+2025/11/06 16:31:50 Current foorloop ID: 43
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/43
+2025/11/06 16:31:50 Current foorloop ID: 43
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/43
+2025/11/06 16:31:50 Current foorloop ID: 43
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/43
+2025/11/06 16:31:50 Current foorloop ID: 43
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/43
+2025/11/06 16:31:50 Current foorloop ID: 43
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/43
+2025/11/06 16:31:50 Current foorloop ID: 43
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/43
+2025/11/06 16:31:50 Current foorloop ID: 43
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/43
+2025/11/06 16:31:50 Current foorloop ID: 44
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/44
+2025/11/06 16:31:50 4243
+2025/11/06 16:31:50 cursor41
+2025/11/06 16:31:50 Current foorloop ID: 44
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/44
+2025/11/06 16:31:50 Current foorloop ID: 44
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/44
+2025/11/06 16:31:50 Current foorloop ID: 44
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/44
+2025/11/06 16:31:50 Current foorloop ID: 44
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/44
+2025/11/06 16:31:50 Current foorloop ID: 44
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/44
+2025/11/06 16:31:50 Current foorloop ID: 44
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/44
+2025/11/06 16:31:50 Current foorloop ID: 45
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/45
+2025/11/06 16:31:50 Current foorloop ID: 45
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/45
+2025/11/06 16:31:50 4344
+2025/11/06 16:31:50 cursor42
+2025/11/06 16:31:50 Current foorloop ID: 45
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/45
+2025/11/06 16:31:50 Current foorloop ID: 45
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/45
+2025/11/06 16:31:50 Current foorloop ID: 45
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/45
+2025/11/06 16:31:50 Current foorloop ID: 45
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/45
+2025/11/06 16:31:50 Current foorloop ID: 46
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/46
+2025/11/06 16:31:50 Current foorloop ID: 46
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/46
+2025/11/06 16:31:50 4445
+2025/11/06 16:31:50 cursor43
+2025/11/06 16:31:50 Current foorloop ID: 46
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/46
+2025/11/06 16:31:50 Current foorloop ID: 46
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/46
+2025/11/06 16:31:50 Current foorloop ID: 46
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/46
+2025/11/06 16:31:50 Current foorloop ID: 47
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/47
+2025/11/06 16:31:50 Current foorloop ID: 47
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/47
+2025/11/06 16:31:50 4546
+2025/11/06 16:31:50 cursor44
+2025/11/06 16:31:50 Current foorloop ID: 47
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/47
+2025/11/06 16:31:50 Current foorloop ID: 47
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/47
+2025/11/06 16:31:50 Current foorloop ID: 48
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/48
+2025/11/06 16:31:50 Current foorloop ID: 48
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/48
+2025/11/06 16:31:50 4647
+2025/11/06 16:31:50 cursor45
+2025/11/06 16:31:50 Current foorloop ID: 48
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/48
+2025/11/06 16:31:50 Current foorloop ID: 49
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/49
+2025/11/06 16:31:50 Current foorloop ID: 49
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/49
+2025/11/06 16:31:50 4748
+2025/11/06 16:31:50 cursor46
+2025/11/06 16:31:50 Current foorloop ID: 50
+2025/11/06 16:31:50 https://pokeapi.co/api/v2/pokemon/50
+2025/11/06 16:31:51 4849
+2025/11/06 16:31:51 cursor47
+2025/11/06 16:31:51 4950
+2025/11/06 16:31:51 cursor48
+2025/11/06 16:31:51 5050
+2025/11/06 16:31:51 cursor49
+2025/11/06 16:31:51 GETTING NEXT POKEMON
+2025/11/06 16:31:51 Current ID: 49
+2025/11/06 16:31:51 Current foorloop ID: 50
+2025/11/06 16:31:51 Current foorloop ID: 51
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/51
+2025/11/06 16:31:51 Current foorloop ID: 52
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/52
+2025/11/06 16:31:51 5151
+2025/11/06 16:31:51 cursor50
+2025/11/06 16:31:51 GETTING NEXT POKEMON
+2025/11/06 16:31:51 Current ID: 50
+2025/11/06 16:31:51 Current foorloop ID: 51
+2025/11/06 16:31:51 Current foorloop ID: 52
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/52
+2025/11/06 16:31:51 Current foorloop ID: 53
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/53
+2025/11/06 16:31:51 Current foorloop ID: 53
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/53
+2025/11/06 16:31:51 5252
+2025/11/06 16:31:51 cursor51
+2025/11/06 16:31:51 GETTING NEXT POKEMON
+2025/11/06 16:31:51 Current ID: 51
+2025/11/06 16:31:51 Current foorloop ID: 52
+2025/11/06 16:31:51 Current foorloop ID: 53
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/53
+2025/11/06 16:31:51 Current foorloop ID: 54
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/54
+2025/11/06 16:31:51 Current foorloop ID: 54
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/54
+2025/11/06 16:31:51 Current foorloop ID: 54
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/54
+2025/11/06 16:31:51 5353
+2025/11/06 16:31:51 cursor52
+2025/11/06 16:31:51 GETTING NEXT POKEMON
+2025/11/06 16:31:51 Current ID: 52
+2025/11/06 16:31:51 Current foorloop ID: 53
+2025/11/06 16:31:51 Current foorloop ID: 54
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/54
+2025/11/06 16:31:51 Current foorloop ID: 55
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/55
+2025/11/06 16:31:51 Current foorloop ID: 55
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/55
+2025/11/06 16:31:51 Current foorloop ID: 55
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/55
+2025/11/06 16:31:51 Current foorloop ID: 55
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/55
+2025/11/06 16:31:51 5454
+2025/11/06 16:31:51 cursor53
+2025/11/06 16:31:51 GETTING NEXT POKEMON
+2025/11/06 16:31:51 Current ID: 53
+2025/11/06 16:31:51 Current foorloop ID: 54
+2025/11/06 16:31:51 Current foorloop ID: 55
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/55
+2025/11/06 16:31:51 Current foorloop ID: 56
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/56
+2025/11/06 16:31:51 Current foorloop ID: 56
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/56
+2025/11/06 16:31:51 Current foorloop ID: 56
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/56
+2025/11/06 16:31:51 Current foorloop ID: 56
+2025/11/06 16:31:51 https://pokeapi.co/api/v2/pokemon/56
+2025/11/06 16:31:52 Current foorloop ID: 56
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/56
+2025/11/06 16:31:52 Current foorloop ID: 57
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/57
+2025/11/06 16:31:52 5556
+2025/11/06 16:31:52 cursor54
+2025/11/06 16:31:52 Current foorloop ID: 57
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/57
+2025/11/06 16:31:52 Current foorloop ID: 57
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/57
+2025/11/06 16:31:52 Current foorloop ID: 57
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/57
+2025/11/06 16:31:52 Current foorloop ID: 57
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/57
+2025/11/06 16:31:52 Current foorloop ID: 58
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/58
+2025/11/06 16:31:52 Current foorloop ID: 58
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/58
+2025/11/06 16:31:52 Current foorloop ID: 58
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/58
+2025/11/06 16:31:52 5657
+2025/11/06 16:31:52 cursor55
+2025/11/06 16:31:52 Current foorloop ID: 58
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/58
+2025/11/06 16:31:52 Current foorloop ID: 58
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/58
+2025/11/06 16:31:52 Current foorloop ID: 59
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/59
+2025/11/06 16:31:52 Current foorloop ID: 59
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/59
+2025/11/06 16:31:52 Current foorloop ID: 59
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/59
+2025/11/06 16:31:52 Current foorloop ID: 59
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/59
+2025/11/06 16:31:52 5758
+2025/11/06 16:31:52 cursor56
+2025/11/06 16:31:52 Current foorloop ID: 59
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/59
+2025/11/06 16:31:52 Current foorloop ID: 60
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/60
+2025/11/06 16:31:52 Current foorloop ID: 60
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/60
+2025/11/06 16:31:52 Current foorloop ID: 60
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/60
+2025/11/06 16:31:52 5859
+2025/11/06 16:31:52 cursor57
+2025/11/06 16:31:52 Current foorloop ID: 60
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/60
+2025/11/06 16:31:52 Current foorloop ID: 61
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/61
+2025/11/06 16:31:52 Current foorloop ID: 61
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/61
+2025/11/06 16:31:52 Current foorloop ID: 61
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/61
+2025/11/06 16:31:52 5960
+2025/11/06 16:31:52 cursor58
+2025/11/06 16:31:52 Current foorloop ID: 62
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/62
+2025/11/06 16:31:52 Current foorloop ID: 62
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/62
+2025/11/06 16:31:52 6061
+2025/11/06 16:31:52 cursor59
+2025/11/06 16:31:52 Current foorloop ID: 63
+2025/11/06 16:31:52 https://pokeapi.co/api/v2/pokemon/63
+2025/11/06 16:31:52 6162
+2025/11/06 16:31:52 cursor60
+2025/11/06 16:31:53 6263
+2025/11/06 16:31:53 cursor61
+2025/11/06 16:31:54 5863
+2025/11/06 16:31:54 cursor57
+2025/11/06 16:31:54 5963
+2025/11/06 16:31:54 cursor58
+2025/11/06 16:31:54 6063
+2025/11/06 16:31:54 cursor59
+2025/11/06 16:31:55 6163
+2025/11/06 16:31:55 cursor60
+2025/11/06 16:31:55 6263
+2025/11/06 16:31:55 cursor61
+2025/11/06 16:31:55 6363
+2025/11/06 16:31:55 cursor62
+2025/11/06 16:31:55 GETTING NEXT POKEMON
+2025/11/06 16:31:55 Current ID: 62
+2025/11/06 16:31:55 Current foorloop ID: 63
+2025/11/06 16:31:55 Current foorloop ID: 64
+2025/11/06 16:31:55 https://pokeapi.co/api/v2/pokemon/64
+2025/11/06 16:31:55 Current foorloop ID: 65
+2025/11/06 16:31:55 https://pokeapi.co/api/v2/pokemon/65
+2025/11/06 16:31:55 Current foorloop ID: 66
+2025/11/06 16:31:55 https://pokeapi.co/api/v2/pokemon/66
+2025/11/06 16:31:55 Current foorloop ID: 67
+2025/11/06 16:31:55 https://pokeapi.co/api/v2/pokemon/67
+2025/11/06 16:31:55 6466
+2025/11/06 16:31:55 cursor63
+2025/11/06 16:31:55 Current foorloop ID: 68
+2025/11/06 16:31:55 https://pokeapi.co/api/v2/pokemon/68
+2025/11/06 16:31:55 6567
+2025/11/06 16:31:55 cursor64
+2025/11/06 16:31:55 Current foorloop ID: 69
+2025/11/06 16:31:55 https://pokeapi.co/api/v2/pokemon/69
+2025/11/06 16:31:56 Current foorloop ID: 70
+2025/11/06 16:31:56 https://pokeapi.co/api/v2/pokemon/70
+2025/11/06 16:31:56 6669
+2025/11/06 16:31:56 cursor65
+2025/11/06 16:31:56 Current foorloop ID: 71
+2025/11/06 16:31:56 https://pokeapi.co/api/v2/pokemon/71
+2025/11/06 16:31:56 6770
+2025/11/06 16:31:56 cursor66
+2025/11/06 16:31:56 Current foorloop ID: 72
+2025/11/06 16:31:56 https://pokeapi.co/api/v2/pokemon/72
+2025/11/06 16:31:56 6871
+2025/11/06 16:31:56 cursor67
+2025/11/06 16:31:56 6972
+2025/11/06 16:31:56 cursor68
+2025/11/06 16:31:56 7072
+2025/11/06 16:31:56 cursor69
+2025/11/06 16:31:57 7172
+2025/11/06 16:31:57 cursor70
+2025/11/06 16:31:57 7272
+2025/11/06 16:31:57 cursor71
+2025/11/06 16:31:57 GETTING NEXT POKEMON
+2025/11/06 16:31:57 Current ID: 71
+2025/11/06 16:31:57 Current foorloop ID: 72
+2025/11/06 16:31:57 Current foorloop ID: 73
+2025/11/06 16:31:57 https://pokeapi.co/api/v2/pokemon/73
+2025/11/06 16:31:57 Current foorloop ID: 74
+2025/11/06 16:31:57 https://pokeapi.co/api/v2/pokemon/74
+2025/11/06 16:31:57 7373
+2025/11/06 16:31:57 cursor72
+2025/11/06 16:31:57 GETTING NEXT POKEMON
+2025/11/06 16:31:57 Current ID: 72
+2025/11/06 16:31:57 Current foorloop ID: 73
+2025/11/06 16:31:57 Current foorloop ID: 74
+2025/11/06 16:31:57 https://pokeapi.co/api/v2/pokemon/74
+2025/11/06 16:31:57 Current foorloop ID: 75
+2025/11/06 16:31:57 https://pokeapi.co/api/v2/pokemon/75
+2025/11/06 16:31:57 Current foorloop ID: 75
+2025/11/06 16:31:57 https://pokeapi.co/api/v2/pokemon/75
+2025/11/06 16:31:57 Current foorloop ID: 76
+2025/11/06 16:31:57 https://pokeapi.co/api/v2/pokemon/76
+2025/11/06 16:31:57 7475
+2025/11/06 16:31:57 cursor73
+2025/11/06 16:31:57 Current foorloop ID: 76
+2025/11/06 16:31:57 https://pokeapi.co/api/v2/pokemon/76
+2025/11/06 16:31:57 Current foorloop ID: 77
+2025/11/06 16:31:57 https://pokeapi.co/api/v2/pokemon/77
+2025/11/06 16:31:57 Current foorloop ID: 77
+2025/11/06 16:31:57 https://pokeapi.co/api/v2/pokemon/77
+2025/11/06 16:31:57 Current foorloop ID: 78
+2025/11/06 16:31:57 https://pokeapi.co/api/v2/pokemon/78
+2025/11/06 16:31:57 7577
+2025/11/06 16:31:57 cursor74
+2025/11/06 16:31:57 Current foorloop ID: 78
+2025/11/06 16:31:57 https://pokeapi.co/api/v2/pokemon/78
+2025/11/06 16:31:57 Current foorloop ID: 79
+2025/11/06 16:31:57 https://pokeapi.co/api/v2/pokemon/79
+2025/11/06 16:31:58 Current foorloop ID: 79
+2025/11/06 16:31:58 https://pokeapi.co/api/v2/pokemon/79
+2025/11/06 16:31:58 7678
+2025/11/06 16:31:58 cursor75
+2025/11/06 16:31:58 Current foorloop ID: 80
+2025/11/06 16:31:58 https://pokeapi.co/api/v2/pokemon/80
+2025/11/06 16:31:58 Current foorloop ID: 80
+2025/11/06 16:31:58 https://pokeapi.co/api/v2/pokemon/80
+2025/11/06 16:31:58 Current foorloop ID: 81
+2025/11/06 16:31:58 https://pokeapi.co/api/v2/pokemon/81
+2025/11/06 16:31:58 7780
+2025/11/06 16:31:58 cursor76
+2025/11/06 16:31:58 Current foorloop ID: 81
+2025/11/06 16:31:58 https://pokeapi.co/api/v2/pokemon/81
+2025/11/06 16:31:58 Current foorloop ID: 82
+2025/11/06 16:31:58 https://pokeapi.co/api/v2/pokemon/82
+2025/11/06 16:31:58 7881
+2025/11/06 16:31:58 cursor77
+2025/11/06 16:31:58 7982
+2025/11/06 16:31:58 cursor78
+2025/11/06 16:32:00 7082
+2025/11/06 16:32:00 cursor69
+2025/11/06 16:32:00 7182
+2025/11/06 16:32:00 cursor70
+2025/11/06 16:32:00 7282
+2025/11/06 16:32:00 cursor71
+2025/11/06 16:32:00 7382
+2025/11/06 16:32:00 cursor72
+2025/11/06 16:32:01 7482
+2025/11/06 16:32:01 cursor73
+2025/11/06 16:32:01 7582
+2025/11/06 16:32:01 cursor74
+2025/11/06 16:32:01 7682
+2025/11/06 16:32:01 cursor75
+2025/11/06 16:32:01 7782
+2025/11/06 16:32:01 cursor76
+2025/11/06 16:32:01 7882
+2025/11/06 16:32:01 cursor77
+2025/11/06 16:32:01 7982
+2025/11/06 16:32:01 cursor78
+2025/11/06 16:32:02 8082
+2025/11/06 16:32:02 cursor79
+2025/11/06 16:32:02 8182
+2025/11/06 16:32:02 cursor80
+2025/11/06 16:32:02 8282
+2025/11/06 16:32:02 cursor81
+2025/11/06 16:32:02 GETTING NEXT POKEMON
+2025/11/06 16:32:02 Current ID: 81
+2025/11/06 16:32:02 Current foorloop ID: 82
+2025/11/06 16:32:02 Current foorloop ID: 83
+2025/11/06 16:32:02 https://pokeapi.co/api/v2/pokemon/83
+2025/11/06 16:32:02 Current foorloop ID: 84
+2025/11/06 16:32:02 https://pokeapi.co/api/v2/pokemon/84
+2025/11/06 16:32:02 8383
+2025/11/06 16:32:02 cursor82
+2025/11/06 16:32:02 GETTING NEXT POKEMON
+2025/11/06 16:32:02 Current ID: 82
+2025/11/06 16:32:02 Current foorloop ID: 83
+2025/11/06 16:32:02 Current foorloop ID: 84
+2025/11/06 16:32:02 https://pokeapi.co/api/v2/pokemon/84
+2025/11/06 16:32:02 Current foorloop ID: 85
+2025/11/06 16:32:02 https://pokeapi.co/api/v2/pokemon/85
+2025/11/06 16:32:02 Current foorloop ID: 85
+2025/11/06 16:32:02 https://pokeapi.co/api/v2/pokemon/85
+2025/11/06 16:32:02 Current foorloop ID: 86
+2025/11/06 16:32:02 https://pokeapi.co/api/v2/pokemon/86
+2025/11/06 16:32:02 Current foorloop ID: 86
+2025/11/06 16:32:02 https://pokeapi.co/api/v2/pokemon/86
+2025/11/06 16:32:02 Current foorloop ID: 87
+2025/11/06 16:32:02 https://pokeapi.co/api/v2/pokemon/87
+2025/11/06 16:32:03 Current foorloop ID: 87
+2025/11/06 16:32:03 https://pokeapi.co/api/v2/pokemon/87
+2025/11/06 16:32:03 Current foorloop ID: 88
+2025/11/06 16:32:03 https://pokeapi.co/api/v2/pokemon/88
+2025/11/06 16:32:03 Current foorloop ID: 88
+2025/11/06 16:32:03 https://pokeapi.co/api/v2/pokemon/88
+2025/11/06 16:32:03 Current foorloop ID: 89
+2025/11/06 16:32:03 https://pokeapi.co/api/v2/pokemon/89
+2025/11/06 16:32:03 Current foorloop ID: 89
+2025/11/06 16:32:03 https://pokeapi.co/api/v2/pokemon/89
+2025/11/06 16:32:03 Current foorloop ID: 90
+2025/11/06 16:32:03 https://pokeapi.co/api/v2/pokemon/90
+2025/11/06 16:32:03 Current foorloop ID: 90
+2025/11/06 16:32:03 https://pokeapi.co/api/v2/pokemon/90
+2025/11/06 16:32:03 Current foorloop ID: 91
+2025/11/06 16:32:03 https://pokeapi.co/api/v2/pokemon/91
+2025/11/06 16:32:03 Current foorloop ID: 91
+2025/11/06 16:32:03 https://pokeapi.co/api/v2/pokemon/91
+2025/11/06 16:32:03 Current foorloop ID: 92
+2025/11/06 16:32:03 https://pokeapi.co/api/v2/pokemon/92
+2025/11/06 16:32:04 8292
+2025/11/06 16:32:04 cursor81
+2025/11/06 16:32:04 8392
+2025/11/06 16:32:04 cursor82
+2025/11/06 16:32:04 8492
+2025/11/06 16:32:04 cursor83
+2025/11/06 16:32:04 8592
+2025/11/06 16:32:04 cursor84
+2025/11/06 16:32:04 8692
+2025/11/06 16:32:04 cursor85
+2025/11/06 16:32:05 8492
+2025/11/06 16:32:05 cursor83
+2025/11/06 16:32:05 8592
+2025/11/06 16:32:05 cursor84
+2025/11/06 16:32:06 8692
+2025/11/06 16:32:06 cursor85
+2025/11/06 16:32:06 8792
+2025/11/06 16:32:06 cursor86
+2025/11/06 16:32:06 8892
+2025/11/06 16:32:06 cursor87
+2025/11/06 16:32:06 8992
+2025/11/06 16:32:06 cursor88
+2025/11/06 16:32:07 8792
+2025/11/06 16:32:07 cursor86
+2025/11/06 16:32:07 8892
+2025/11/06 16:32:07 cursor87
+2025/11/06 16:32:07 8992
+2025/11/06 16:32:07 cursor88
+2025/11/06 16:32:07 9092
+2025/11/06 16:32:07 cursor89
+2025/11/06 16:32:08 9192
+2025/11/06 16:32:08 cursor90
+2025/11/06 16:32:09 9292
+2025/11/06 16:32:09 cursor91
+2025/11/06 16:32:09 GETTING NEXT POKEMON
+2025/11/06 16:32:09 Current ID: 91
+2025/11/06 16:32:09 Current foorloop ID: 92
+2025/11/06 16:32:09 Current foorloop ID: 93
+2025/11/06 16:32:09 https://pokeapi.co/api/v2/pokemon/93
+2025/11/06 16:32:09 Current foorloop ID: 94
+2025/11/06 16:32:09 https://pokeapi.co/api/v2/pokemon/94
+2025/11/06 16:32:09 Current foorloop ID: 95
+2025/11/06 16:32:09 https://pokeapi.co/api/v2/pokemon/95
+2025/11/06 16:32:09 Current foorloop ID: 96
+2025/11/06 16:32:09 https://pokeapi.co/api/v2/pokemon/96
+2025/11/06 16:32:09 Current foorloop ID: 97
+2025/11/06 16:32:09 https://pokeapi.co/api/v2/pokemon/97
+2025/11/06 16:32:09 Current foorloop ID: 98
+2025/11/06 16:32:09 https://pokeapi.co/api/v2/pokemon/98
+2025/11/06 16:32:10 Current foorloop ID: 99
+2025/11/06 16:32:10 https://pokeapi.co/api/v2/pokemon/99
+2025/11/06 16:32:10 Current foorloop ID: 100
+2025/11/06 16:32:10 https://pokeapi.co/api/v2/pokemon/100
+2025/11/06 16:32:10 Current foorloop ID: 101
+2025/11/06 16:32:10 https://pokeapi.co/api/v2/pokemon/101
+2025/11/06 16:32:10 93101
+2025/11/06 16:32:10 cursor92
+2025/11/06 16:32:10 94101
+2025/11/06 16:32:10 cursor93
+2025/11/06 16:32:11 95101
+2025/11/06 16:32:11 cursor94
+2025/11/06 16:32:11 96101
+2025/11/06 16:32:11 cursor95
+2025/11/06 16:32:12 97101
+2025/11/06 16:32:12 cursor96
+2025/11/06 16:32:12 98101
+2025/11/06 16:32:12 cursor97
+2025/11/06 16:32:13 99101
+2025/11/06 16:32:13 cursor98
+2025/11/06 16:32:13 100101
+2025/11/06 16:32:13 cursor99
+2025/11/06 16:32:13 101101
+2025/11/06 16:32:13 cursor100
+2025/11/06 16:32:13 GETTING NEXT POKEMON
+2025/11/06 16:32:13 Current ID: 100
+2025/11/06 16:32:13 Current foorloop ID: 101
+2025/11/06 16:32:13 Current foorloop ID: 102
+2025/11/06 16:32:13 https://pokeapi.co/api/v2/pokemon/102
+2025/11/06 16:32:13 Current foorloop ID: 103
+2025/11/06 16:32:13 https://pokeapi.co/api/v2/pokemon/103
+2025/11/06 16:32:13 Current foorloop ID: 104
+2025/11/06 16:32:13 https://pokeapi.co/api/v2/pokemon/104
+2025/11/06 16:32:13 Current foorloop ID: 105
+2025/11/06 16:32:13 https://pokeapi.co/api/v2/pokemon/105
+2025/11/06 16:32:13 102104
+2025/11/06 16:32:13 cursor101
+2025/11/06 16:32:13 Current foorloop ID: 106
+2025/11/06 16:32:13 https://pokeapi.co/api/v2/pokemon/106
+2025/11/06 16:32:13 103105
+2025/11/06 16:32:13 cursor102
+2025/11/06 16:32:14 Current foorloop ID: 107
+2025/11/06 16:32:14 https://pokeapi.co/api/v2/pokemon/107
+2025/11/06 16:32:14 Current foorloop ID: 108
+2025/11/06 16:32:14 https://pokeapi.co/api/v2/pokemon/108
+2025/11/06 16:32:14 Current foorloop ID: 109
+2025/11/06 16:32:14 https://pokeapi.co/api/v2/pokemon/109
+2025/11/06 16:32:14 Current foorloop ID: 110
+2025/11/06 16:32:14 https://pokeapi.co/api/v2/pokemon/110
+2025/11/06 16:32:15 99110
+2025/11/06 16:32:15 cursor98
+2025/11/06 16:32:15 100110
+2025/11/06 16:32:15 cursor99
+2025/11/06 16:32:15 101110
+2025/11/06 16:32:15 cursor100
+2025/11/06 16:32:15 102110
+2025/11/06 16:32:15 cursor101
+2025/11/06 16:32:16 103110
+2025/11/06 16:32:16 cursor102
+2025/11/06 16:32:16 104110
+2025/11/06 16:32:16 cursor103
+2025/11/06 16:32:16 105110
+2025/11/06 16:32:16 cursor104
+2025/11/06 16:32:16 106110
+2025/11/06 16:32:16 cursor105
+2025/11/06 16:32:16 107110
+2025/11/06 16:32:16 cursor106
+2025/11/06 16:32:17 108110
+2025/11/06 16:32:17 cursor107
+2025/11/06 16:32:17 109110
+2025/11/06 16:32:17 cursor108
+2025/11/06 16:32:17 110110
+2025/11/06 16:32:17 cursor109
+2025/11/06 16:32:17 GETTING NEXT POKEMON
+2025/11/06 16:32:17 Current ID: 109
+2025/11/06 16:32:17 Current foorloop ID: 110
+2025/11/06 16:32:17 Current foorloop ID: 111
+2025/11/06 16:32:17 https://pokeapi.co/api/v2/pokemon/111
+2025/11/06 16:32:17 Current foorloop ID: 112
+2025/11/06 16:32:17 https://pokeapi.co/api/v2/pokemon/112
+2025/11/06 16:32:17 Current foorloop ID: 113
+2025/11/06 16:32:17 https://pokeapi.co/api/v2/pokemon/113
+2025/11/06 16:32:17 111112
+2025/11/06 16:32:17 cursor110
+2025/11/06 16:32:18 Current foorloop ID: 114
+2025/11/06 16:32:18 https://pokeapi.co/api/v2/pokemon/114
+2025/11/06 16:32:18 Current foorloop ID: 115
+2025/11/06 16:32:18 https://pokeapi.co/api/v2/pokemon/115
+2025/11/06 16:32:18 Current foorloop ID: 116
+2025/11/06 16:32:18 https://pokeapi.co/api/v2/pokemon/116
+2025/11/06 16:32:18 Current foorloop ID: 117
+2025/11/06 16:32:18 https://pokeapi.co/api/v2/pokemon/117
+2025/11/06 16:32:18 Current foorloop ID: 118
+2025/11/06 16:32:18 https://pokeapi.co/api/v2/pokemon/118
+2025/11/06 16:32:18 Current foorloop ID: 119
+2025/11/06 16:32:18 https://pokeapi.co/api/v2/pokemon/119
+2025/11/06 16:32:18 112119
+2025/11/06 16:32:18 cursor111
+2025/11/06 16:32:19 113119
+2025/11/06 16:32:19 cursor112
+2025/11/06 16:32:19 114119
+2025/11/06 16:32:19 cursor113
+2025/11/06 16:32:20 115119
+2025/11/06 16:32:20 cursor114
+2025/11/06 16:32:20 116119
+2025/11/06 16:32:20 cursor115
+2025/11/06 16:32:21 117119
+2025/11/06 16:32:21 cursor116
+2025/11/06 16:32:21 118119
+2025/11/06 16:32:21 cursor117
+2025/11/06 16:32:21 119119
+2025/11/06 16:32:21 cursor118
+2025/11/06 16:32:21 GETTING NEXT POKEMON
+2025/11/06 16:32:21 Current ID: 118
+2025/11/06 16:32:21 Current foorloop ID: 119
+2025/11/06 16:32:21 Current foorloop ID: 120
+2025/11/06 16:32:21 https://pokeapi.co/api/v2/pokemon/120
+2025/11/06 16:32:21 Current foorloop ID: 121
+2025/11/06 16:32:21 https://pokeapi.co/api/v2/pokemon/121
+2025/11/06 16:32:22 Current foorloop ID: 122
+2025/11/06 16:32:22 https://pokeapi.co/api/v2/pokemon/122
+2025/11/06 16:32:22 120121
+2025/11/06 16:32:22 cursor119
+2025/11/06 16:32:22 Current foorloop ID: 123
+2025/11/06 16:32:22 https://pokeapi.co/api/v2/pokemon/123
+2025/11/06 16:32:22 Current foorloop ID: 124
+2025/11/06 16:32:22 https://pokeapi.co/api/v2/pokemon/124
+2025/11/06 16:32:22 121123
+2025/11/06 16:32:22 cursor120
+2025/11/06 16:32:22 Current foorloop ID: 125
+2025/11/06 16:32:22 https://pokeapi.co/api/v2/pokemon/125
+2025/11/06 16:32:22 Current foorloop ID: 126
+2025/11/06 16:32:22 https://pokeapi.co/api/v2/pokemon/126
+2025/11/06 16:32:22 Current foorloop ID: 127
+2025/11/06 16:32:22 https://pokeapi.co/api/v2/pokemon/127
+2025/11/06 16:32:22 Current foorloop ID: 128
+2025/11/06 16:32:22 https://pokeapi.co/api/v2/pokemon/128
+2025/11/06 16:32:23 122128
+2025/11/06 16:32:23 cursor121
+2025/11/06 16:32:23 123128
+2025/11/06 16:32:23 cursor122
+2025/11/06 16:32:24 124128
+2025/11/06 16:32:24 cursor123
+2025/11/06 16:32:24 125128
+2025/11/06 16:32:24 cursor124
+2025/11/06 16:32:26 124128
+2025/11/06 16:32:26 cursor123
+2025/11/06 16:32:26 125128
+2025/11/06 16:32:26 cursor124
+2025/11/06 16:32:26 126128
+2025/11/06 16:32:26 cursor125
+2025/11/06 16:32:26 127128
+2025/11/06 16:32:26 cursor126
+2025/11/06 16:32:27 128128
+2025/11/06 16:32:27 cursor127
+2025/11/06 16:32:27 GETTING NEXT POKEMON
+2025/11/06 16:32:27 Current ID: 127
+2025/11/06 16:32:27 Current foorloop ID: 128
+2025/11/06 16:32:27 Current foorloop ID: 129
+2025/11/06 16:32:27 https://pokeapi.co/api/v2/pokemon/129
+2025/11/06 16:32:27 Current foorloop ID: 130
+2025/11/06 16:32:27 https://pokeapi.co/api/v2/pokemon/130
+2025/11/06 16:32:27 129129
+2025/11/06 16:32:27 cursor128
+2025/11/06 16:32:27 GETTING NEXT POKEMON
+2025/11/06 16:32:27 Current ID: 128
+2025/11/06 16:32:27 Current foorloop ID: 129
+2025/11/06 16:32:27 Current foorloop ID: 130
+2025/11/06 16:32:27 https://pokeapi.co/api/v2/pokemon/130
+2025/11/06 16:32:27 Current foorloop ID: 131
+2025/11/06 16:32:27 https://pokeapi.co/api/v2/pokemon/131
+2025/11/06 16:32:27 Current foorloop ID: 131
+2025/11/06 16:32:27 https://pokeapi.co/api/v2/pokemon/131
+2025/11/06 16:32:27 Current foorloop ID: 132
+2025/11/06 16:32:27 https://pokeapi.co/api/v2/pokemon/132
+2025/11/06 16:32:27 Current foorloop ID: 132
+2025/11/06 16:32:27 https://pokeapi.co/api/v2/pokemon/132
+2025/11/06 16:32:27 Current foorloop ID: 133
+2025/11/06 16:32:27 https://pokeapi.co/api/v2/pokemon/133
+2025/11/06 16:32:27 130132
+2025/11/06 16:32:27 cursor129
+2025/11/06 16:32:27 Current foorloop ID: 133
+2025/11/06 16:32:27 https://pokeapi.co/api/v2/pokemon/133
+2025/11/06 16:32:27 Current foorloop ID: 134
+2025/11/06 16:32:27 https://pokeapi.co/api/v2/pokemon/134
+2025/11/06 16:32:27 Current foorloop ID: 134
+2025/11/06 16:32:27 https://pokeapi.co/api/v2/pokemon/134
+2025/11/06 16:32:27 Current foorloop ID: 135
+2025/11/06 16:32:27 https://pokeapi.co/api/v2/pokemon/135
+2025/11/06 16:32:27 Current foorloop ID: 135
+2025/11/06 16:32:27 https://pokeapi.co/api/v2/pokemon/135
+2025/11/06 16:32:27 Current foorloop ID: 136
+2025/11/06 16:32:27 https://pokeapi.co/api/v2/pokemon/136
+2025/11/06 16:32:28 Current foorloop ID: 136
+2025/11/06 16:32:28 https://pokeapi.co/api/v2/pokemon/136
+2025/11/06 16:32:28 Current foorloop ID: 137
+2025/11/06 16:32:28 https://pokeapi.co/api/v2/pokemon/137
+2025/11/06 16:32:28 131136
+2025/11/06 16:32:28 cursor130
+2025/11/06 16:32:28 Current foorloop ID: 137
+2025/11/06 16:32:28 https://pokeapi.co/api/v2/pokemon/137
+2025/11/06 16:32:28 Current foorloop ID: 138
+2025/11/06 16:32:28 https://pokeapi.co/api/v2/pokemon/138
+2025/11/06 16:32:28 132137
+2025/11/06 16:32:28 cursor131
+2025/11/06 16:32:28 133138
+2025/11/06 16:32:28 cursor132
+2025/11/06 16:32:29 134138
+2025/11/06 16:32:29 cursor133
+2025/11/06 16:32:29 135138
+2025/11/06 16:32:29 cursor134
+2025/11/06 16:32:29 136138
+2025/11/06 16:32:29 cursor135
+2025/11/06 16:32:29 137138
+2025/11/06 16:32:29 cursor136
+2025/11/06 16:32:30 138138
+2025/11/06 16:32:30 cursor137
+2025/11/06 16:32:30 GETTING NEXT POKEMON
+2025/11/06 16:32:30 Current ID: 137
+2025/11/06 16:32:30 Current foorloop ID: 138
+2025/11/06 16:32:30 Current foorloop ID: 139
+2025/11/06 16:32:30 https://pokeapi.co/api/v2/pokemon/139
+2025/11/06 16:32:30 Current foorloop ID: 140
+2025/11/06 16:32:30 https://pokeapi.co/api/v2/pokemon/140
+2025/11/06 16:32:30 139139
+2025/11/06 16:32:30 cursor138
+2025/11/06 16:32:30 GETTING NEXT POKEMON
+2025/11/06 16:32:30 Current ID: 138
+2025/11/06 16:32:30 Current foorloop ID: 139
+2025/11/06 16:32:30 Current foorloop ID: 140
+2025/11/06 16:32:30 https://pokeapi.co/api/v2/pokemon/140
+2025/11/06 16:32:30 Current foorloop ID: 141
+2025/11/06 16:32:30 https://pokeapi.co/api/v2/pokemon/141
+2025/11/06 16:32:30 Current foorloop ID: 141
+2025/11/06 16:32:30 https://pokeapi.co/api/v2/pokemon/141
+2025/11/06 16:32:30 Current foorloop ID: 142
+2025/11/06 16:32:30 https://pokeapi.co/api/v2/pokemon/142
+2025/11/06 16:32:30 Current foorloop ID: 142
+2025/11/06 16:32:30 https://pokeapi.co/api/v2/pokemon/142
+2025/11/06 16:32:30 Current foorloop ID: 143
+2025/11/06 16:32:30 https://pokeapi.co/api/v2/pokemon/143
+2025/11/06 16:32:30 Current foorloop ID: 143
+2025/11/06 16:32:30 https://pokeapi.co/api/v2/pokemon/143
+2025/11/06 16:32:30 Current foorloop ID: 144
+2025/11/06 16:32:30 https://pokeapi.co/api/v2/pokemon/144
+2025/11/06 16:32:30 Current foorloop ID: 144
+2025/11/06 16:32:30 https://pokeapi.co/api/v2/pokemon/144
+2025/11/06 16:32:30 Current foorloop ID: 145
+2025/11/06 16:32:30 https://pokeapi.co/api/v2/pokemon/145
+2025/11/06 16:32:30 Current foorloop ID: 145
+2025/11/06 16:32:30 https://pokeapi.co/api/v2/pokemon/145
+2025/11/06 16:32:30 140144
+2025/11/06 16:32:30 cursor139
+2025/11/06 16:32:31 Current foorloop ID: 146
+2025/11/06 16:32:31 https://pokeapi.co/api/v2/pokemon/146
+2025/11/06 16:32:31 Current foorloop ID: 146
+2025/11/06 16:32:31 https://pokeapi.co/api/v2/pokemon/146
+2025/11/06 16:32:31 Current foorloop ID: 147
+2025/11/06 16:32:31 https://pokeapi.co/api/v2/pokemon/147
+2025/11/06 16:32:31 Current foorloop ID: 147
+2025/11/06 16:32:31 https://pokeapi.co/api/v2/pokemon/147
+2025/11/06 16:32:31 Current foorloop ID: 148
+2025/11/06 16:32:31 https://pokeapi.co/api/v2/pokemon/148
+2025/11/06 16:32:31 141148
+2025/11/06 16:32:31 cursor140
+2025/11/06 16:32:31 142148
+2025/11/06 16:32:31 cursor141
+2025/11/06 16:32:31 143148
+2025/11/06 16:32:31 cursor142
+2025/11/06 16:32:32 144148
+2025/11/06 16:32:32 cursor143
+2025/11/06 16:32:32 145148
+2025/11/06 16:32:32 cursor144
+2025/11/06 16:32:32 146148
+2025/11/06 16:32:32 cursor145
+2025/11/06 16:32:33 147148
+2025/11/06 16:32:33 cursor146
+2025/11/06 16:32:33 148148
+2025/11/06 16:32:33 cursor147
+2025/11/06 16:32:33 GETTING NEXT POKEMON
+2025/11/06 16:32:33 Current ID: 147
+2025/11/06 16:32:33 Current foorloop ID: 148
+2025/11/06 16:32:33 Current foorloop ID: 149
+2025/11/06 16:32:33 https://pokeapi.co/api/v2/pokemon/149
+2025/11/06 16:32:34 Current foorloop ID: 150
+2025/11/06 16:32:34 https://pokeapi.co/api/v2/pokemon/150
+2025/11/06 16:32:34 Current foorloop ID: 151
+2025/11/06 16:32:34 https://pokeapi.co/api/v2/pokemon/151
+2025/11/06 16:32:34 Current foorloop ID: 152
+2025/11/06 16:32:34 https://pokeapi.co/api/v2/pokemon/152
+2025/11/06 16:32:34 Current foorloop ID: 153
+2025/11/06 16:32:34 https://pokeapi.co/api/v2/pokemon/153
+2025/11/06 16:32:34 149152
+2025/11/06 16:32:34 cursor148
+2025/11/06 16:32:34 Current foorloop ID: 154
+2025/11/06 16:32:34 https://pokeapi.co/api/v2/pokemon/154
+2025/11/06 16:32:34 Current foorloop ID: 155
+2025/11/06 16:32:34 https://pokeapi.co/api/v2/pokemon/155
+2025/11/06 16:32:34 Current foorloop ID: 156
+2025/11/06 16:32:34 https://pokeapi.co/api/v2/pokemon/156
+2025/11/06 16:32:35 Current foorloop ID: 157
+2025/11/06 16:32:35 https://pokeapi.co/api/v2/pokemon/157
+2025/11/06 16:32:35 150157
+2025/11/06 16:32:35 cursor149
+2025/11/06 16:32:35 150157
+2025/11/06 16:32:35 cursor149
+2025/11/06 16:32:37 148157
+2025/11/06 16:32:37 cursor147
+2025/11/06 16:32:37 149157
+2025/11/06 16:32:37 cursor148
+2025/11/06 16:32:37 150157
+2025/11/06 16:32:37 cursor149
+2025/11/06 16:32:37 150157
+2025/11/06 16:32:37 cursor149
+2025/11/06 16:32:39 143157
+2025/11/06 16:32:39 cursor142
+2025/11/06 16:32:39 144157
+2025/11/06 16:32:39 cursor143
+2025/11/06 16:32:39 145157
+2025/11/06 16:32:39 cursor144
+2025/11/06 16:32:39 146157
+2025/11/06 16:32:39 cursor145
+2025/11/06 16:32:40 147157
+2025/11/06 16:32:40 cursor146
+2025/11/06 16:32:40 148157
+2025/11/06 16:32:40 cursor147
+2025/11/06 16:32:40 149157
+2025/11/06 16:32:40 cursor148
+2025/11/06 16:32:40 150157
+2025/11/06 16:32:40 cursor149
+2025/11/06 16:32:40 150157
+2025/11/06 16:32:40 cursor149
+2025/11/06 16:32:46 99157
+2025/11/06 16:32:46 cursor98
+2025/11/06 16:32:46 100157
+2025/11/06 16:32:46 cursor99
+2025/11/06 16:32:46 101157
+2025/11/06 16:32:46 cursor100
+2025/11/06 16:32:46 102157
+2025/11/06 16:32:46 cursor101
+2025/11/06 16:32:46 103157
+2025/11/06 16:32:46 cursor102
+2025/11/06 16:32:46 104157
+2025/11/06 16:32:46 cursor103
+2025/11/06 16:32:47 105157
+2025/11/06 16:32:47 cursor104
+2025/11/06 16:32:48 98157
+2025/11/06 16:32:48 cursor97
+2025/11/06 16:32:49 99157
+2025/11/06 16:32:49 cursor98
+2025/11/06 16:32:49 100157
+2025/11/06 16:32:49 cursor99
+2025/11/06 16:32:49 101157
+2025/11/06 16:32:49 cursor100
+2025/11/06 16:32:49 102157
+2025/11/06 16:32:49 cursor101
+2025/11/06 16:32:49 103157
+2025/11/06 16:32:49 cursor102
+2025/11/06 16:32:49 104157
+2025/11/06 16:32:49 cursor103
+2025/11/06 16:32:49 105157
+2025/11/06 16:32:49 cursor104
+2025/11/06 16:32:49 106157
+2025/11/06 16:32:49 cursor105
+2025/11/06 16:32:49 107157
+2025/11/06 16:32:49 cursor106
+2025/11/06 16:32:49 108157
+2025/11/06 16:32:49 cursor107
+2025/11/06 16:32:49 109157
+2025/11/06 16:32:49 cursor108
+2025/11/06 16:32:50 110157
+2025/11/06 16:32:50 cursor109
+2025/11/06 16:32:50 111157
+2025/11/06 16:32:50 cursor110
+2025/11/06 16:32:50 112157
+2025/11/06 16:32:50 cursor111
+2025/11/06 16:32:50 113157
+2025/11/06 16:32:50 cursor112
+2025/11/06 16:32:50 114157
+2025/11/06 16:32:50 cursor113
+2025/11/06 16:32:50 115157
+2025/11/06 16:32:50 cursor114
+2025/11/06 16:32:50 116157
+2025/11/06 16:32:50 cursor115
+2025/11/06 16:32:50 117157
+2025/11/06 16:32:50 cursor116
+2025/11/06 16:32:50 118157
+2025/11/06 16:32:50 cursor117
+2025/11/06 16:32:50 119157
+2025/11/06 16:32:50 cursor118
+2025/11/06 16:32:50 120157
+2025/11/06 16:32:50 cursor119
+2025/11/06 16:32:50 121157
+2025/11/06 16:32:50 cursor120
+2025/11/06 16:32:51 122157
+2025/11/06 16:32:51 cursor121
+2025/11/06 16:32:51 123157
+2025/11/06 16:32:51 cursor122
+2025/11/06 16:32:51 124157
+2025/11/06 16:32:51 cursor123
+2025/11/06 16:32:51 125157
+2025/11/06 16:32:51 cursor124
+2025/11/06 16:32:51 126157
+2025/11/06 16:32:51 cursor125
+2025/11/06 16:32:51 127157
+2025/11/06 16:32:51 cursor126
+2025/11/06 16:32:51 128157
+2025/11/06 16:32:51 cursor127
+2025/11/06 16:32:52 129157
+2025/11/06 16:32:52 cursor128
+2025/11/06 16:32:52 130157
+2025/11/06 16:32:52 cursor129
+2025/11/06 16:32:52 131157
+2025/11/06 16:32:52 cursor130
+2025/11/06 16:32:52 132157
+2025/11/06 16:32:52 cursor131
+2025/11/06 16:32:52 133157
+2025/11/06 16:32:52 cursor132
+2025/11/06 16:32:52 134157
+2025/11/06 16:32:52 cursor133
+2025/11/06 16:32:52 135157
+2025/11/06 16:32:52 cursor134
+2025/11/06 16:32:53 136157
+2025/11/06 16:32:53 cursor135
+2025/11/06 16:32:53 137157
+2025/11/06 16:32:53 cursor136
+2025/11/06 16:32:53 138157
+2025/11/06 16:32:53 cursor137
+2025/11/06 16:32:53 139157
+2025/11/06 16:32:53 cursor138
+2025/11/06 16:32:53 140157
+2025/11/06 16:32:53 cursor139
+2025/11/06 16:32:53 141157
+2025/11/06 16:32:53 cursor140
+2025/11/06 16:32:53 142157
+2025/11/06 16:32:53 cursor141
+2025/11/06 16:32:54 143157
+2025/11/06 16:32:54 cursor142
+2025/11/06 16:32:54 144157
+2025/11/06 16:32:54 cursor143
+2025/11/06 16:32:54 145157
+2025/11/06 16:32:54 cursor144
+2025/11/06 16:32:54 146157
+2025/11/06 16:32:54 cursor145
+2025/11/06 16:32:54 147157
+2025/11/06 16:32:54 cursor146
+2025/11/06 16:32:54 148157
+2025/11/06 16:32:54 cursor147
+2025/11/06 16:32:54 149157
+2025/11/06 16:32:54 cursor148
+2025/11/06 16:32:54 150157
+2025/11/06 16:32:54 cursor149
+2025/11/06 16:32:55 150157
+2025/11/06 16:32:55 cursor149
+2025/11/06 16:32:55 150157
+2025/11/06 16:32:55 cursor149
+2025/11/06 16:32:57 150157
+2025/11/06 16:32:57 cursor149
+2025/11/06 16:33:06 105157
+2025/11/06 16:33:06 cursor104
+2025/11/06 16:33:06 106157
+2025/11/06 16:33:06 cursor105
+2025/11/06 16:33:06 107157
+2025/11/06 16:33:06 cursor106
+2025/11/06 16:33:06 108157
+2025/11/06 16:33:06 cursor107
+2025/11/06 16:33:06 109157
+2025/11/06 16:33:06 cursor108
+2025/11/06 16:33:06 110157
+2025/11/06 16:33:06 cursor109
+2025/11/06 16:33:07 111157
+2025/11/06 16:33:07 cursor110
+2025/11/06 16:33:07 112157
+2025/11/06 16:33:07 cursor111
+2025/11/06 16:33:07 113157
+2025/11/06 16:33:07 cursor112
+2025/11/06 16:33:07 114157
+2025/11/06 16:33:07 cursor113
+2025/11/06 16:33:09 https://pokeapi.co/api/v2/pokemon/1
+2025/11/06 16:33:09 GETTING NEXT POKEMON
+2025/11/06 16:33:09 Current ID: 1
+2025/11/06 16:33:09 Current foorloop ID: 2
+2025/11/06 16:33:09 https://pokeapi.co/api/v2/pokemon/2
+2025/11/06 16:33:09 Current foorloop ID: 3
+2025/11/06 16:33:09 https://pokeapi.co/api/v2/pokemon/3
+2025/11/06 16:33:09 Current foorloop ID: 4
+2025/11/06 16:33:09 https://pokeapi.co/api/v2/pokemon/4
+2025/11/06 16:33:09 Current foorloop ID: 5
+2025/11/06 16:33:09 https://pokeapi.co/api/v2/pokemon/5
+2025/11/06 16:33:09 Current foorloop ID: 6
+2025/11/06 16:33:09 https://pokeapi.co/api/v2/pokemon/6
+2025/11/06 16:33:10 Current foorloop ID: 7
+2025/11/06 16:33:10 https://pokeapi.co/api/v2/pokemon/7
+2025/11/06 16:33:10 Current foorloop ID: 8
+2025/11/06 16:33:10 https://pokeapi.co/api/v2/pokemon/8
+2025/11/06 16:33:10 27
+2025/11/06 16:33:10 cursor1
+2025/11/06 16:33:10 Current foorloop ID: 9
+2025/11/06 16:33:10 https://pokeapi.co/api/v2/pokemon/9
+2025/11/06 16:33:10 Current foorloop ID: 10
+2025/11/06 16:33:10 https://pokeapi.co/api/v2/pokemon/10
+2025/11/06 16:33:10 39
+2025/11/06 16:33:10 cursor2
+2025/11/06 16:33:10 Current foorloop ID: 11
+2025/11/06 16:33:10 https://pokeapi.co/api/v2/pokemon/11
+2025/11/06 16:33:10 410
+2025/11/06 16:33:10 cursor3
+2025/11/06 16:33:10 511
+2025/11/06 16:33:10 cursor4
+2025/11/06 16:33:10 611
+2025/11/06 16:33:10 cursor5
+2025/11/06 16:33:10 711
+2025/11/06 16:33:10 cursor6
+2025/11/06 16:33:11 811
+2025/11/06 16:33:11 cursor7
+2025/11/06 16:33:11 911
+2025/11/06 16:33:11 cursor8
+2025/11/06 16:33:11 1011
+2025/11/06 16:33:11 cursor9
+2025/11/06 16:33:11 1111
+2025/11/06 16:33:11 cursor10
+2025/11/06 16:33:11 GETTING NEXT POKEMON
+2025/11/06 16:33:11 Current ID: 10
+2025/11/06 16:33:11 Current foorloop ID: 11
+2025/11/06 16:33:11 Current foorloop ID: 12
+2025/11/06 16:33:11 https://pokeapi.co/api/v2/pokemon/12
+2025/11/06 16:33:11 Current foorloop ID: 13
+2025/11/06 16:33:11 https://pokeapi.co/api/v2/pokemon/13
+2025/11/06 16:33:11 1212
+2025/11/06 16:33:11 cursor11
+2025/11/06 16:33:11 GETTING NEXT POKEMON
+2025/11/06 16:33:11 Current ID: 11
+2025/11/06 16:33:11 Current foorloop ID: 12
+2025/11/06 16:33:11 Current foorloop ID: 13
+2025/11/06 16:33:11 https://pokeapi.co/api/v2/pokemon/13
+2025/11/06 16:33:11 Current foorloop ID: 14
+2025/11/06 16:33:11 https://pokeapi.co/api/v2/pokemon/14
+2025/11/06 16:33:11 Current foorloop ID: 14
+2025/11/06 16:33:11 https://pokeapi.co/api/v2/pokemon/14
+2025/11/06 16:33:11 1313
+2025/11/06 16:33:11 cursor12
+2025/11/06 16:33:11 GETTING NEXT POKEMON
+2025/11/06 16:33:11 Current ID: 12
+2025/11/06 16:33:11 Current foorloop ID: 13
+2025/11/06 16:33:11 Current foorloop ID: 14
+2025/11/06 16:33:11 https://pokeapi.co/api/v2/pokemon/14
+2025/11/06 16:33:11 Current foorloop ID: 15
+2025/11/06 16:33:11 https://pokeapi.co/api/v2/pokemon/15
+2025/11/06 16:33:11 Current foorloop ID: 15
+2025/11/06 16:33:11 https://pokeapi.co/api/v2/pokemon/15
+2025/11/06 16:33:11 Current foorloop ID: 15
+2025/11/06 16:33:11 https://pokeapi.co/api/v2/pokemon/15
+2025/11/06 16:33:11 1414
+2025/11/06 16:33:11 cursor13
+2025/11/06 16:33:11 GETTING NEXT POKEMON
+2025/11/06 16:33:11 Current ID: 13
+2025/11/06 16:33:11 Current foorloop ID: 14
+2025/11/06 16:33:11 Current foorloop ID: 15
+2025/11/06 16:33:11 https://pokeapi.co/api/v2/pokemon/15
+2025/11/06 16:33:11 Current foorloop ID: 16
+2025/11/06 16:33:11 https://pokeapi.co/api/v2/pokemon/16
+2025/11/06 16:33:12 Current foorloop ID: 16
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/16
+2025/11/06 16:33:12 Current foorloop ID: 16
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/16
+2025/11/06 16:33:12 Current foorloop ID: 16
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/16
+2025/11/06 16:33:12 1515
+2025/11/06 16:33:12 cursor14
+2025/11/06 16:33:12 GETTING NEXT POKEMON
+2025/11/06 16:33:12 Current ID: 14
+2025/11/06 16:33:12 Current foorloop ID: 15
+2025/11/06 16:33:12 Current foorloop ID: 16
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/16
+2025/11/06 16:33:12 Current foorloop ID: 17
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/17
+2025/11/06 16:33:12 Current foorloop ID: 17
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/17
+2025/11/06 16:33:12 Current foorloop ID: 17
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/17
+2025/11/06 16:33:12 Current foorloop ID: 17
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/17
+2025/11/06 16:33:12 Current foorloop ID: 17
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/17
+2025/11/06 16:33:12 Current foorloop ID: 18
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/18
+2025/11/06 16:33:12 1617
+2025/11/06 16:33:12 cursor15
+2025/11/06 16:33:12 Current foorloop ID: 18
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/18
+2025/11/06 16:33:12 Current foorloop ID: 18
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/18
+2025/11/06 16:33:12 Current foorloop ID: 18
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/18
+2025/11/06 16:33:12 Current foorloop ID: 18
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/18
+2025/11/06 16:33:12 Current foorloop ID: 19
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/19
+2025/11/06 16:33:12 Current foorloop ID: 19
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/19
+2025/11/06 16:33:12 Current foorloop ID: 19
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/19
+2025/11/06 16:33:12 Current foorloop ID: 19
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/19
+2025/11/06 16:33:12 Current foorloop ID: 19
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/19
+2025/11/06 16:33:12 Current foorloop ID: 20
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/20
+2025/11/06 16:33:12 Current foorloop ID: 20
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/20
+2025/11/06 16:33:12 Current foorloop ID: 20
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/20
+2025/11/06 16:33:12 Current foorloop ID: 20
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/20
+2025/11/06 16:33:12 Current foorloop ID: 20
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/20
+2025/11/06 16:33:12 Current foorloop ID: 21
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/21
+2025/11/06 16:33:12 Current foorloop ID: 21
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/21
+2025/11/06 16:33:12 Current foorloop ID: 21
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/21
+2025/11/06 16:33:12 Current foorloop ID: 21
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/21
+2025/11/06 16:33:12 Current foorloop ID: 22
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/22
+2025/11/06 16:33:12 Current foorloop ID: 22
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/22
+2025/11/06 16:33:12 Current foorloop ID: 22
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/22
+2025/11/06 16:33:12 Current foorloop ID: 23
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/23
+2025/11/06 16:33:12 Current foorloop ID: 23
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/23
+2025/11/06 16:33:12 Current foorloop ID: 24
+2025/11/06 16:33:12 https://pokeapi.co/api/v2/pokemon/24
+2025/11/06 16:33:13 1124
+2025/11/06 16:33:13 cursor10
+2025/11/06 16:33:13 1224
+2025/11/06 16:33:13 cursor11
+2025/11/06 16:33:14 1324
+2025/11/06 16:33:14 cursor12
+2025/11/06 16:33:14 1424
+2025/11/06 16:33:14 cursor13
+2025/11/06 16:33:14 1524
+2025/11/06 16:33:14 cursor14
+2025/11/06 16:33:14 1624
+2025/11/06 16:33:14 cursor15
+2025/11/06 16:33:14 1724
+2025/11/06 16:33:14 cursor16
+2025/11/06 16:33:14 1824
+2025/11/06 16:33:14 cursor17
+2025/11/06 16:33:14 1924
+2025/11/06 16:33:14 cursor18
+2025/11/06 16:33:15 2024
+2025/11/06 16:33:15 cursor19
+2025/11/06 16:33:15 2124
+2025/11/06 16:33:15 cursor20
+2025/11/06 16:33:15 2224
+2025/11/06 16:33:15 cursor21
+2025/11/06 16:33:15 2324
+2025/11/06 16:33:15 cursor22
+2025/11/06 16:33:15 2424
+2025/11/06 16:33:15 cursor23
+2025/11/06 16:33:15 GETTING NEXT POKEMON
+2025/11/06 16:33:15 Current ID: 23
+2025/11/06 16:33:15 Current foorloop ID: 24
+2025/11/06 16:33:15 Current foorloop ID: 25
+2025/11/06 16:33:15 https://pokeapi.co/api/v2/pokemon/25
+2025/11/06 16:33:15 Current foorloop ID: 26
+2025/11/06 16:33:15 https://pokeapi.co/api/v2/pokemon/26
+2025/11/06 16:33:15 2525
+2025/11/06 16:33:15 cursor24
+2025/11/06 16:33:15 GETTING NEXT POKEMON
+2025/11/06 16:33:15 Current ID: 24
+2025/11/06 16:33:15 Current foorloop ID: 25
+2025/11/06 16:33:15 Current foorloop ID: 26
+2025/11/06 16:33:15 https://pokeapi.co/api/v2/pokemon/26
+2025/11/06 16:33:15 Current foorloop ID: 27
+2025/11/06 16:33:15 https://pokeapi.co/api/v2/pokemon/27
+2025/11/06 16:33:15 Current foorloop ID: 27
+2025/11/06 16:33:15 https://pokeapi.co/api/v2/pokemon/27
+2025/11/06 16:33:15 2626
+2025/11/06 16:33:15 cursor25
+2025/11/06 16:33:15 GETTING NEXT POKEMON
+2025/11/06 16:33:15 Current ID: 25
+2025/11/06 16:33:15 Current foorloop ID: 26
+2025/11/06 16:33:15 Current foorloop ID: 27
+2025/11/06 16:33:15 https://pokeapi.co/api/v2/pokemon/27
+2025/11/06 16:33:15 Current foorloop ID: 28
+2025/11/06 16:33:15 https://pokeapi.co/api/v2/pokemon/28
+2025/11/06 16:33:15 Current foorloop ID: 28
+2025/11/06 16:33:15 https://pokeapi.co/api/v2/pokemon/28
+2025/11/06 16:33:15 Current foorloop ID: 28
+2025/11/06 16:33:15 https://pokeapi.co/api/v2/pokemon/28
+2025/11/06 16:33:15 2727
+2025/11/06 16:33:15 cursor26
+2025/11/06 16:33:15 GETTING NEXT POKEMON
+2025/11/06 16:33:15 Current ID: 26
+2025/11/06 16:33:15 Current foorloop ID: 27
+2025/11/06 16:33:15 Current foorloop ID: 28
+2025/11/06 16:33:15 https://pokeapi.co/api/v2/pokemon/28
+2025/11/06 16:33:16 Current foorloop ID: 29
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/29
+2025/11/06 16:33:16 Current foorloop ID: 29
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/29
+2025/11/06 16:33:16 Current foorloop ID: 29
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/29
+2025/11/06 16:33:16 Current foorloop ID: 29
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/29
+2025/11/06 16:33:16 Current foorloop ID: 30
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/30
+2025/11/06 16:33:16 Current foorloop ID: 30
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/30
+2025/11/06 16:33:16 Current foorloop ID: 30
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/30
+2025/11/06 16:33:16 Current foorloop ID: 30
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/30
+2025/11/06 16:33:16 Current foorloop ID: 31
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/31
+2025/11/06 16:33:16 Current foorloop ID: 31
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/31
+2025/11/06 16:33:16 Current foorloop ID: 31
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/31
+2025/11/06 16:33:16 Current foorloop ID: 31
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/31
+2025/11/06 16:33:16 Current foorloop ID: 32
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/32
+2025/11/06 16:33:16 Current foorloop ID: 32
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/32
+2025/11/06 16:33:16 Current foorloop ID: 32
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/32
+2025/11/06 16:33:16 Current foorloop ID: 32
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/32
+2025/11/06 16:33:16 Current foorloop ID: 33
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/33
+2025/11/06 16:33:16 Current foorloop ID: 33
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/33
+2025/11/06 16:33:16 Current foorloop ID: 33
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/33
+2025/11/06 16:33:16 Current foorloop ID: 33
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/33
+2025/11/06 16:33:16 Current foorloop ID: 34
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/34
+2025/11/06 16:33:16 Current foorloop ID: 34
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/34
+2025/11/06 16:33:16 Current foorloop ID: 34
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/34
+2025/11/06 16:33:16 Current foorloop ID: 35
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/35
+2025/11/06 16:33:16 Current foorloop ID: 35
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/35
+2025/11/06 16:33:16 Current foorloop ID: 36
+2025/11/06 16:33:16 https://pokeapi.co/api/v2/pokemon/36
+2025/11/06 16:33:17 2436
+2025/11/06 16:33:17 cursor23
+2025/11/06 16:33:17 2536
+2025/11/06 16:33:17 cursor24
+2025/11/06 16:33:18 2636
+2025/11/06 16:33:18 cursor25
+2025/11/06 16:33:18 2736
+2025/11/06 16:33:18 cursor26
+2025/11/06 16:33:18 2836
+2025/11/06 16:33:18 cursor27
+2025/11/06 16:33:18 2936
+2025/11/06 16:33:18 cursor28
+2025/11/06 16:33:18 3036
+2025/11/06 16:33:18 cursor29
+2025/11/06 16:33:18 3136
+2025/11/06 16:33:18 cursor30
+2025/11/06 16:33:18 3236
+2025/11/06 16:33:18 cursor31
+2025/11/06 16:33:19 3336
+2025/11/06 16:33:19 cursor32
+2025/11/06 16:33:19 3436
+2025/11/06 16:33:19 cursor33
+2025/11/06 16:33:19 3536
+2025/11/06 16:33:19 cursor34
+2025/11/06 16:33:19 3636
+2025/11/06 16:33:19 cursor35
+2025/11/06 16:33:19 GETTING NEXT POKEMON
+2025/11/06 16:33:19 Current ID: 35
+2025/11/06 16:33:19 Current foorloop ID: 36
+2025/11/06 16:33:19 Current foorloop ID: 37
+2025/11/06 16:33:19 https://pokeapi.co/api/v2/pokemon/37
+2025/11/06 16:33:19 Current foorloop ID: 38
+2025/11/06 16:33:19 https://pokeapi.co/api/v2/pokemon/38
+2025/11/06 16:33:19 3737
+2025/11/06 16:33:19 cursor36
+2025/11/06 16:33:19 GETTING NEXT POKEMON
+2025/11/06 16:33:19 Current ID: 36
+2025/11/06 16:33:19 Current foorloop ID: 37
+2025/11/06 16:33:19 Current foorloop ID: 38
+2025/11/06 16:33:19 https://pokeapi.co/api/v2/pokemon/38
+2025/11/06 16:33:19 Current foorloop ID: 39
+2025/11/06 16:33:19 https://pokeapi.co/api/v2/pokemon/39
+2025/11/06 16:33:19 Current foorloop ID: 39
+2025/11/06 16:33:19 https://pokeapi.co/api/v2/pokemon/39
+2025/11/06 16:33:19 3838
+2025/11/06 16:33:19 cursor37
+2025/11/06 16:33:19 GETTING NEXT POKEMON
+2025/11/06 16:33:19 Current ID: 37
+2025/11/06 16:33:19 Current foorloop ID: 38
+2025/11/06 16:33:19 Current foorloop ID: 39
+2025/11/06 16:33:19 https://pokeapi.co/api/v2/pokemon/39
+2025/11/06 16:33:19 Current foorloop ID: 40
+2025/11/06 16:33:19 https://pokeapi.co/api/v2/pokemon/40
+2025/11/06 16:33:19 Current foorloop ID: 40
+2025/11/06 16:33:19 https://pokeapi.co/api/v2/pokemon/40
+2025/11/06 16:33:19 Current foorloop ID: 40
+2025/11/06 16:33:19 https://pokeapi.co/api/v2/pokemon/40
+2025/11/06 16:33:19 Current foorloop ID: 41
+2025/11/06 16:33:19 https://pokeapi.co/api/v2/pokemon/41
+2025/11/06 16:33:19 Current foorloop ID: 41
+2025/11/06 16:33:19 https://pokeapi.co/api/v2/pokemon/41
+2025/11/06 16:33:20 Current foorloop ID: 41
+2025/11/06 16:33:20 https://pokeapi.co/api/v2/pokemon/41
+2025/11/06 16:33:20 Current foorloop ID: 42
+2025/11/06 16:33:20 https://pokeapi.co/api/v2/pokemon/42
+2025/11/06 16:33:20 Current foorloop ID: 42
+2025/11/06 16:33:20 https://pokeapi.co/api/v2/pokemon/42
+2025/11/06 16:33:20 Current foorloop ID: 42
+2025/11/06 16:33:20 https://pokeapi.co/api/v2/pokemon/42
+2025/11/06 16:33:20 Current foorloop ID: 43
+2025/11/06 16:33:20 https://pokeapi.co/api/v2/pokemon/43
+2025/11/06 16:33:20 Current foorloop ID: 43
+2025/11/06 16:33:20 https://pokeapi.co/api/v2/pokemon/43
+2025/11/06 16:33:20 Current foorloop ID: 43
+2025/11/06 16:33:20 https://pokeapi.co/api/v2/pokemon/43
+2025/11/06 16:33:20 Current foorloop ID: 44
+2025/11/06 16:33:20 https://pokeapi.co/api/v2/pokemon/44
+2025/11/06 16:33:20 Current foorloop ID: 44
+2025/11/06 16:33:20 https://pokeapi.co/api/v2/pokemon/44
+2025/11/06 16:33:20 Current foorloop ID: 44
+2025/11/06 16:33:20 https://pokeapi.co/api/v2/pokemon/44
+2025/11/06 16:33:20 Current foorloop ID: 45
+2025/11/06 16:33:20 https://pokeapi.co/api/v2/pokemon/45
+2025/11/06 16:33:20 Current foorloop ID: 45
+2025/11/06 16:33:20 https://pokeapi.co/api/v2/pokemon/45
+2025/11/06 16:33:20 Current foorloop ID: 45
+2025/11/06 16:33:20 https://pokeapi.co/api/v2/pokemon/45
+2025/11/06 16:33:20 Current foorloop ID: 46
+2025/11/06 16:33:20 https://pokeapi.co/api/v2/pokemon/46
+2025/11/06 16:33:20 Current foorloop ID: 46
+2025/11/06 16:33:20 https://pokeapi.co/api/v2/pokemon/46
+2025/11/06 16:33:20 Current foorloop ID: 47
+2025/11/06 16:33:20 https://pokeapi.co/api/v2/pokemon/47
+2025/11/06 16:33:21 3247
+2025/11/06 16:33:21 cursor31
+2025/11/06 16:33:21 3347
+2025/11/06 16:33:21 cursor32
+2025/11/06 16:33:21 3447
+2025/11/06 16:33:21 cursor33
+2025/11/06 16:33:21 3547
+2025/11/06 16:33:21 cursor34
+2025/11/06 16:33:21 3647
+2025/11/06 16:33:21 cursor35
+2025/11/06 16:33:21 3747
+2025/11/06 16:33:21 cursor36
+2025/11/06 16:33:22 3847
+2025/11/06 16:33:22 cursor37
+2025/11/06 16:33:22 3947
+2025/11/06 16:33:22 cursor38
+2025/11/06 16:33:22 4047
+2025/11/06 16:33:22 cursor39
+2025/11/06 16:33:22 4147
+2025/11/06 16:33:22 cursor40
+2025/11/06 16:33:22 4247
+2025/11/06 16:33:22 cursor41
+2025/11/06 16:33:22 4347
+2025/11/06 16:33:22 cursor42
+2025/11/06 16:33:22 4447
+2025/11/06 16:33:22 cursor43
+2025/11/06 16:33:23 4147
+2025/11/06 16:33:23 cursor40
+2025/11/06 16:33:23 4247
+2025/11/06 16:33:23 cursor41
+2025/11/06 16:33:24 4347
+2025/11/06 16:33:24 cursor42
+2025/11/06 16:33:24 4447
+2025/11/06 16:33:24 cursor43
+2025/11/06 16:33:24 4547
+2025/11/06 16:33:24 cursor44
+2025/11/06 16:33:24 4647
+2025/11/06 16:33:24 cursor45
+2025/11/06 16:33:24 4747
+2025/11/06 16:33:24 cursor46
+2025/11/06 16:33:24 GETTING NEXT POKEMON
+2025/11/06 16:33:24 Current ID: 46
+2025/11/06 16:33:24 Current foorloop ID: 47
+2025/11/06 16:33:24 Current foorloop ID: 48
+2025/11/06 16:33:24 https://pokeapi.co/api/v2/pokemon/48
+2025/11/06 16:33:24 Current foorloop ID: 49
+2025/11/06 16:33:24 https://pokeapi.co/api/v2/pokemon/49
+2025/11/06 16:33:24 4848
+2025/11/06 16:33:24 cursor47
+2025/11/06 16:33:24 GETTING NEXT POKEMON
+2025/11/06 16:33:24 Current ID: 47
+2025/11/06 16:33:24 Current foorloop ID: 48
+2025/11/06 16:33:24 Current foorloop ID: 49
+2025/11/06 16:33:24 https://pokeapi.co/api/v2/pokemon/49
+2025/11/06 16:33:24 Current foorloop ID: 50
+2025/11/06 16:33:24 https://pokeapi.co/api/v2/pokemon/50
+2025/11/06 16:33:24 Current foorloop ID: 50
+2025/11/06 16:33:24 https://pokeapi.co/api/v2/pokemon/50
+2025/11/06 16:33:24 4949
+2025/11/06 16:33:24 cursor48
+2025/11/06 16:33:24 GETTING NEXT POKEMON
+2025/11/06 16:33:24 Current ID: 48
+2025/11/06 16:33:24 Current foorloop ID: 49
+2025/11/06 16:33:24 Current foorloop ID: 50
+2025/11/06 16:33:24 https://pokeapi.co/api/v2/pokemon/50
+2025/11/06 16:33:25 Current foorloop ID: 51
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/51
+2025/11/06 16:33:25 Current foorloop ID: 51
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/51
+2025/11/06 16:33:25 Current foorloop ID: 51
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/51
+2025/11/06 16:33:25 5050
+2025/11/06 16:33:25 cursor49
+2025/11/06 16:33:25 GETTING NEXT POKEMON
+2025/11/06 16:33:25 Current ID: 49
+2025/11/06 16:33:25 Current foorloop ID: 50
+2025/11/06 16:33:25 Current foorloop ID: 51
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/51
+2025/11/06 16:33:25 Current foorloop ID: 52
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/52
+2025/11/06 16:33:25 Current foorloop ID: 52
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/52
+2025/11/06 16:33:25 Current foorloop ID: 52
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/52
+2025/11/06 16:33:25 Current foorloop ID: 52
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/52
+2025/11/06 16:33:25 Current foorloop ID: 53
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/53
+2025/11/06 16:33:25 Current foorloop ID: 53
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/53
+2025/11/06 16:33:25 Current foorloop ID: 53
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/53
+2025/11/06 16:33:25 Current foorloop ID: 53
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/53
+2025/11/06 16:33:25 Current foorloop ID: 54
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/54
+2025/11/06 16:33:25 Current foorloop ID: 54
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/54
+2025/11/06 16:33:25 Current foorloop ID: 54
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/54
+2025/11/06 16:33:25 Current foorloop ID: 54
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/54
+2025/11/06 16:33:25 Current foorloop ID: 55
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/55
+2025/11/06 16:33:25 Current foorloop ID: 55
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/55
+2025/11/06 16:33:25 Current foorloop ID: 55
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/55
+2025/11/06 16:33:25 Current foorloop ID: 55
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/55
+2025/11/06 16:33:25 Current foorloop ID: 56
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/56
+2025/11/06 16:33:25 Current foorloop ID: 56
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/56
+2025/11/06 16:33:25 Current foorloop ID: 56
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/56
+2025/11/06 16:33:25 Current foorloop ID: 56
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/56
+2025/11/06 16:33:25 Current foorloop ID: 57
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/57
+2025/11/06 16:33:25 Current foorloop ID: 57
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/57
+2025/11/06 16:33:25 Current foorloop ID: 57
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/57
+2025/11/06 16:33:25 Current foorloop ID: 58
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/58
+2025/11/06 16:33:25 Current foorloop ID: 58
+2025/11/06 16:33:25 https://pokeapi.co/api/v2/pokemon/58
+2025/11/06 16:33:25 Current foorloop ID: 59
+2025/11/06 16:33:26 https://pokeapi.co/api/v2/pokemon/59
+2025/11/06 16:33:26 4758
+2025/11/06 16:33:26 cursor46
+2025/11/06 16:33:26 4859
+2025/11/06 16:33:26 cursor47
+2025/11/06 16:33:26 4959
+2025/11/06 16:33:26 cursor48
+2025/11/06 16:33:26 5059
+2025/11/06 16:33:26 cursor49
+2025/11/06 16:33:26 5159
+2025/11/06 16:33:26 cursor50
+2025/11/06 16:33:26 5259
+2025/11/06 16:33:26 cursor51
+2025/11/06 16:33:27 5359
+2025/11/06 16:33:27 cursor52
+2025/11/06 16:33:27 5459
+2025/11/06 16:33:27 cursor53
+2025/11/06 16:33:27 5559
+2025/11/06 16:33:27 cursor54
+2025/11/06 16:33:27 5659
+2025/11/06 16:33:27 cursor55
+2025/11/06 16:33:27 5759
+2025/11/06 16:33:27 cursor56
+2025/11/06 16:33:27 5859
+2025/11/06 16:33:27 cursor57
+2025/11/06 16:33:27 5959
+2025/11/06 16:33:27 cursor58
+2025/11/06 16:33:27 GETTING NEXT POKEMON
+2025/11/06 16:33:27 Current ID: 58
+2025/11/06 16:33:27 Current foorloop ID: 59
+2025/11/06 16:33:27 Current foorloop ID: 60
+2025/11/06 16:33:27 https://pokeapi.co/api/v2/pokemon/60
+2025/11/06 16:33:27 Current foorloop ID: 61
+2025/11/06 16:33:27 https://pokeapi.co/api/v2/pokemon/61
+2025/11/06 16:33:28 6060
+2025/11/06 16:33:28 cursor59
+2025/11/06 16:33:28 GETTING NEXT POKEMON
+2025/11/06 16:33:28 Current ID: 59
+2025/11/06 16:33:28 Current foorloop ID: 60
+2025/11/06 16:33:28 Current foorloop ID: 61
+2025/11/06 16:33:28 https://pokeapi.co/api/v2/pokemon/61
+2025/11/06 16:33:28 Current foorloop ID: 62
+2025/11/06 16:33:28 https://pokeapi.co/api/v2/pokemon/62
+2025/11/06 16:33:28 Current foorloop ID: 62
+2025/11/06 16:33:28 https://pokeapi.co/api/v2/pokemon/62
+2025/11/06 16:33:28 Current foorloop ID: 63
+2025/11/06 16:33:28 https://pokeapi.co/api/v2/pokemon/63
+2025/11/06 16:33:28 Current foorloop ID: 63
+2025/11/06 16:33:28 https://pokeapi.co/api/v2/pokemon/63
+2025/11/06 16:33:28 Current foorloop ID: 64
+2025/11/06 16:33:28 https://pokeapi.co/api/v2/pokemon/64
+2025/11/06 16:33:28 Current foorloop ID: 64
+2025/11/06 16:33:28 https://pokeapi.co/api/v2/pokemon/64
+2025/11/06 16:33:28 Current foorloop ID: 65
+2025/11/06 16:33:28 https://pokeapi.co/api/v2/pokemon/65
+2025/11/06 16:33:28 Current foorloop ID: 65
+2025/11/06 16:33:28 https://pokeapi.co/api/v2/pokemon/65
+2025/11/06 16:33:28 Current foorloop ID: 66
+2025/11/06 16:33:28 https://pokeapi.co/api/v2/pokemon/66
+2025/11/06 16:33:28 Current foorloop ID: 66
+2025/11/06 16:33:28 https://pokeapi.co/api/v2/pokemon/66
+2025/11/06 16:33:28 Current foorloop ID: 67
+2025/11/06 16:33:28 https://pokeapi.co/api/v2/pokemon/67
+2025/11/06 16:33:28 Current foorloop ID: 67
+2025/11/06 16:33:28 https://pokeapi.co/api/v2/pokemon/67
+2025/11/06 16:33:28 Current foorloop ID: 68
+2025/11/06 16:33:28 https://pokeapi.co/api/v2/pokemon/68
+2025/11/06 16:33:28 Current foorloop ID: 68
+2025/11/06 16:33:28 https://pokeapi.co/api/v2/pokemon/68
+2025/11/06 16:33:28 Current foorloop ID: 69
+2025/11/06 16:33:28 https://pokeapi.co/api/v2/pokemon/69
+2025/11/06 16:33:29 5769
+2025/11/06 16:33:29 cursor56
+2025/11/06 16:33:29 5869
+2025/11/06 16:33:29 cursor57
+2025/11/06 16:33:29 5969
+2025/11/06 16:33:29 cursor58
+2025/11/06 16:33:29 6069
+2025/11/06 16:33:29 cursor59
+2025/11/06 16:33:29 6169
+2025/11/06 16:33:29 cursor60
+2025/11/06 16:33:29 6269
+2025/11/06 16:33:29 cursor61
+2025/11/06 16:33:30 6369
+2025/11/06 16:33:30 cursor62
+2025/11/06 16:33:30 6469
+2025/11/06 16:33:30 cursor63
+2025/11/06 16:33:30 6569
+2025/11/06 16:33:30 cursor64
+2025/11/06 16:33:30 6669
+2025/11/06 16:33:30 cursor65
+2025/11/06 16:33:30 6769
+2025/11/06 16:33:30 cursor66
+2025/11/06 16:33:30 6869
+2025/11/06 16:33:30 cursor67
+2025/11/06 16:33:30 6969
+2025/11/06 16:33:30 cursor68
+2025/11/06 16:33:30 GETTING NEXT POKEMON
+2025/11/06 16:33:30 Current ID: 68
+2025/11/06 16:33:30 Current foorloop ID: 69
+2025/11/06 16:33:30 Current foorloop ID: 70
+2025/11/06 16:33:30 https://pokeapi.co/api/v2/pokemon/70
+2025/11/06 16:33:30 Current foorloop ID: 71
+2025/11/06 16:33:30 https://pokeapi.co/api/v2/pokemon/71
+2025/11/06 16:33:31 7070
+2025/11/06 16:33:31 cursor69
+2025/11/06 16:33:31 GETTING NEXT POKEMON
+2025/11/06 16:33:31 Current ID: 69
+2025/11/06 16:33:31 Current foorloop ID: 70
+2025/11/06 16:33:31 Current foorloop ID: 71
+2025/11/06 16:33:31 https://pokeapi.co/api/v2/pokemon/71
+2025/11/06 16:33:31 Current foorloop ID: 72
+2025/11/06 16:33:31 https://pokeapi.co/api/v2/pokemon/72
+2025/11/06 16:33:31 Current foorloop ID: 72
+2025/11/06 16:33:31 https://pokeapi.co/api/v2/pokemon/72
+2025/11/06 16:33:31 Current foorloop ID: 73
+2025/11/06 16:33:31 https://pokeapi.co/api/v2/pokemon/73
+2025/11/06 16:33:31 Current foorloop ID: 73
+2025/11/06 16:33:31 https://pokeapi.co/api/v2/pokemon/73
+2025/11/06 16:33:31 Current foorloop ID: 74
+2025/11/06 16:33:31 https://pokeapi.co/api/v2/pokemon/74
+2025/11/06 16:33:31 Current foorloop ID: 74
+2025/11/06 16:33:31 https://pokeapi.co/api/v2/pokemon/74
+2025/11/06 16:33:31 Current foorloop ID: 75
+2025/11/06 16:33:31 https://pokeapi.co/api/v2/pokemon/75
+2025/11/06 16:33:31 Current foorloop ID: 75
+2025/11/06 16:33:31 https://pokeapi.co/api/v2/pokemon/75
+2025/11/06 16:33:31 Current foorloop ID: 76
+2025/11/06 16:33:31 https://pokeapi.co/api/v2/pokemon/76
+2025/11/06 16:33:31 Current foorloop ID: 76
+2025/11/06 16:33:31 https://pokeapi.co/api/v2/pokemon/76
+2025/11/06 16:33:31 Current foorloop ID: 77
+2025/11/06 16:33:31 https://pokeapi.co/api/v2/pokemon/77
+2025/11/06 16:33:31 Current foorloop ID: 77
+2025/11/06 16:33:31 https://pokeapi.co/api/v2/pokemon/77
+2025/11/06 16:33:31 Current foorloop ID: 78
+2025/11/06 16:33:31 https://pokeapi.co/api/v2/pokemon/78
+2025/11/06 16:33:31 Current foorloop ID: 78
+2025/11/06 16:33:31 https://pokeapi.co/api/v2/pokemon/78
+2025/11/06 16:33:31 Current foorloop ID: 79
+2025/11/06 16:33:31 https://pokeapi.co/api/v2/pokemon/79
+2025/11/06 16:33:32 6579
+2025/11/06 16:33:32 cursor64
+2025/11/06 16:33:32 6679
+2025/11/06 16:33:32 cursor65
+2025/11/06 16:33:32 6779
+2025/11/06 16:33:32 cursor66
+2025/11/06 16:33:32 6879
+2025/11/06 16:33:32 cursor67
+2025/11/06 16:33:33 6979
+2025/11/06 16:33:33 cursor68
+2025/11/06 16:33:33 7079
+2025/11/06 16:33:33 cursor69
+2025/11/06 16:33:33 7179
+2025/11/06 16:33:33 cursor70
+2025/11/06 16:33:33 7279
+2025/11/06 16:33:33 cursor71
+2025/11/06 16:33:33 7379
+2025/11/06 16:33:33 cursor72
+2025/11/06 16:33:33 7479
+2025/11/06 16:33:33 cursor73
+2025/11/06 16:33:33 7579
+2025/11/06 16:33:33 cursor74
+2025/11/06 16:33:34 7679
+2025/11/06 16:33:34 cursor75
+2025/11/06 16:33:34 7779
+2025/11/06 16:33:34 cursor76
+2025/11/06 16:33:34 7879
+2025/11/06 16:33:34 cursor77
+2025/11/06 16:33:34 7979
+2025/11/06 16:33:34 cursor78
+2025/11/06 16:33:34 GETTING NEXT POKEMON
+2025/11/06 16:33:34 Current ID: 78
+2025/11/06 16:33:34 Current foorloop ID: 79
+2025/11/06 16:33:34 Current foorloop ID: 80
+2025/11/06 16:33:34 https://pokeapi.co/api/v2/pokemon/80
+2025/11/06 16:33:34 Current foorloop ID: 81
+2025/11/06 16:33:34 https://pokeapi.co/api/v2/pokemon/81
+2025/11/06 16:33:34 Current foorloop ID: 82
+2025/11/06 16:33:34 https://pokeapi.co/api/v2/pokemon/82
+2025/11/06 16:33:34 Current foorloop ID: 83
+2025/11/06 16:33:34 https://pokeapi.co/api/v2/pokemon/83
+2025/11/06 16:33:35 Current foorloop ID: 84
+2025/11/06 16:33:35 https://pokeapi.co/api/v2/pokemon/84
+2025/11/06 16:33:35 Current foorloop ID: 85
+2025/11/06 16:33:35 https://pokeapi.co/api/v2/pokemon/85
+2025/11/06 16:33:35 Current foorloop ID: 86
+2025/11/06 16:33:35 https://pokeapi.co/api/v2/pokemon/86
+2025/11/06 16:33:35 Current foorloop ID: 87
+2025/11/06 16:33:35 https://pokeapi.co/api/v2/pokemon/87
+2025/11/06 16:33:35 Current foorloop ID: 88
+2025/11/06 16:33:35 https://pokeapi.co/api/v2/pokemon/88

@@ -272,9 +272,9 @@ type Pokemon struct {
 }
 
 type PokemonList struct {
-	Count    int         `json:"count"`
-	Next     string      `json:"next"`
-	Previous interface{} `json:"previous"`
+	Count    int    `json:"count"`
+	Next     string `json:"next"`
+	Previous string `json:"previous"`
 	Results  []struct {
 		Name string `json:"name"`
 		URL  string `json:"url"`
@@ -301,11 +301,13 @@ func GetPokemonList() PokemonList {
 	return results
 }
 
-func GetPokemon(id string) Pokemon {
+func GetPokemon(id string) (*Pokemon, error) {
+	log.Print("https://pokeapi.co/api/v2/pokemon/", id)
 	res, err := http.Get("https://pokeapi.co/api/v2/pokemon/" + id)
 
 	if err != nil {
-		log.Fatal(err)
+		log.Print(err)
+		return nil, err
 	}
 
 	defer res.Body.Close()
@@ -315,13 +317,12 @@ func GetPokemon(id string) Pokemon {
 	errCode := json.NewDecoder(res.Body).Decode(&results)
 
 	if errCode != nil {
-		log.Fatal(errCode)
+		log.Print(errCode)
 	}
 
 	results.Name = strings.Title(results.Name)
 
-	return results
-
+	return &results, nil
 }
 
 func (p Pokemon) GetPokemonDescriptionView() string {

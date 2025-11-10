@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"log"
+	"os"
 	"pokego/client"
 	"strings"
 
@@ -11,15 +12,37 @@ import (
 	"github.com/charmbracelet/lipgloss"
 )
 
+type PokemonList = map[string]client.Pokemon
+
 type model struct {
 	table           table.Model
-	pokemons        map[string]client.Pokemon
+	pokemons        PokemonList
 	selectedPokemon client.Pokemon
 }
 
 func (m model) Init() tea.Cmd {
-
 	return nil
+}
+
+func GetNextPokemon(currentPokemonId int, pokemonList *PokemonList) {
+
+	log.Print("GETTING NEXT POKEMON")
+	log.Print("Current ID: ", currentPokemonId)
+	for i := currentPokemonId; i < currentPokemonId+10; i++ {
+		pokemonId := fmt.Sprint(i + 1)
+
+		log.Print("Current foorloop ID: ", pokemonId)
+
+		if _, ok := (*pokemonList)[pokemonId]; !ok {
+
+			pokemon, err := client.GetPokemon(pokemonId)
+			if err != nil {
+				log.Print(err)
+			}
+			(*pokemonList)[pokemonId] = *pokemon
+		}
+	}
+
 }
 
 func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
@@ -35,26 +58,19 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 		case "up", "k":
 			m.table.MoveUp(1)
 			pokemonId := m.table.SelectedRow()[0]
-
-			if pokemon, ok := m.pokemons[pokemonId]; !ok {
-				pokemon := client.GetPokemon(pokemonId)
-				m.pokemons[pokemonId] = pokemon
-				m.selectedPokemon = pokemon
-			} else {
-				m.selectedPokemon = pokemon
-			}
+			m.selectedPokemon = m.pokemons[pokemonId]
 
 		case "down", "j":
 			m.table.MoveDown(1)
 			pokemonId := m.table.SelectedRow()[0]
+			log.Print(pokemonId, len(m.pokemons))
+			log.Print("cursor", m.table.Cursor())
 
-			if pokemon, ok := m.pokemons[pokemonId]; !ok {
-				pokemon := client.GetPokemon(pokemonId)
-				m.pokemons[pokemonId] = pokemon
-				m.selectedPokemon = pokemon
-			} else {
-				m.selectedPokemon = pokemon
+			if len(m.pokemons)-1 == m.table.Cursor() {
+				go GetNextPokemon(m.table.Cursor(), &m.pokemons)
 			}
+
+			m.selectedPokemon = m.pokemons[pokemonId]
 		}
 	}
 
@@ -109,14 +125,28 @@ func getInitialModel() model {
 		tableRow = append(tableRow, []string{fmt.Sprint(i + 1), strings.Title(pok.Name)})
 	}
 
-	initialPokemon := client.GetPokemon("1")
+	initialPokemon, err := client.GetPokemon("1")
+	if err != nil {
+		log.Print(err)
+	}
 
-	return model{table: createPokedexTable(tableRow), selectedPokemon: initialPokemon, pokemons: map[string]client.Pokemon{
-		"1": initialPokemon,
+	model := model{table: createPokedexTable(tableRow), selectedPokemon: *initialPokemon, pokemons: PokemonList{
+		"1": *initialPokemon,
 	}}
+
+	go GetNextPokemon(1, &model.pokemons)
+
+	return model
 }
 
 func main() {
+	f, err := os.OpenFile("logs", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
+	if err != nil {
+		log.Fatalf("error opening file: %v", err)
+	}
+	defer f.Close()
+
+	log.SetOutput(f)
 
 	if _, err := tea.NewProgram(getInitialModel(), tea.WithAltScreen()).Run(); err != nil {
 		log.Fatal(err)
